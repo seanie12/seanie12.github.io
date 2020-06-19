@@ -15,7 +15,6 @@ sidebar:
     email: lsnfamily02@gmail.com
     phone: 
     website:  #do not add http://
-    linkedin: seanie-lee
     github: seanie12
     gitlab:
     bitbucket:
@@ -44,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is <a target="_blank"  href="http://www.sungjuhwang.com">Sung Ju Hwang</a>.
+      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is <a target="_blank"  href="http://www.sungjuhwang.com"><strong>Sung Ju Hwang</strong></a>.
       Previously, I was research intern at <a target="_blank" href="https://www.42maru.ai">42Maru</a>.
 
 education:
