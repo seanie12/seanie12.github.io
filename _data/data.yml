@@ -89,17 +89,17 @@ publications:
     papers:
       - title: Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs
         link: "https://arxiv.org/abs/2005.13837"
-        authors: Dong Bok Lee*, <b><u>Seanie Lee*</u></b>, WooTae Jeong, Donghwan Kim, Sung Ju Hwang 
+        authors: Dong Bok Lee*, <b><u>Seanie Lee</u>*</b>, WooTae Jeong, Donghwan Kim, Sung Ju Hwang 
         conference: ACL 2020
 
       - title: "g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset"
         link: "https://arxiv.org/abs/2004.03136"
-        authors: Kyubyong Park*, <b><u>Seanie Lee*</u></b>
+        authors: Kyubyong Park*, <b><u>Seanie Lee</u>*</b>
         conference: arXiv preprint
       
       - title: Domain-agnostic question-answering with adversarial training
         link: "https://arxiv.org/abs/1910.09342"
-        authors: <b><u>Seanie Lee*</u></b>, Donggyu Kim*, and Jangwon Park*.
+        authors: <b><u>Seanie Lee</u>*</b>, Donggyu Kim*, and Jangwon Park*.
         conference: EMNLP-IJCNLP 2019 MRQA Workshop shared task
 
       - title: Incorporating product description to sentiment topic models for improved aspect-based sentiment analysis
