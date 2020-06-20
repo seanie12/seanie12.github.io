@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is <a target="_blank"  href="http://www.sungjuhwang.com"><b>Sung Ju Hwang</b></a>.
+      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is <a target="_blank"  href="http://www.sungjuhwang.com"><b><p>Sung Ju Hwang</p></b></a>.
       Previously, I was research intern at <a target="_blank" href="https://www.42maru.ai"><b>42Maru</b></a>.
 
 education:
@@ -89,7 +89,7 @@ publications:
     papers:
       - title: Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs
         link: "https://arxiv.org/abs/2005.13837"
-        authors: Dong Bok Lee*, <strong>Seanie Lee*</strong>, WooTae Jeong, Donghwan Kim, Sung Ju Hwang 
+        authors: Dong Bok Lee*, <b>Seanie Lee*</b>, WooTae Jeong, Donghwan Kim, Sung Ju Hwang 
         conference: ACL 2020
 
       - title: "g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset"
