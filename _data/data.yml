@@ -43,8 +43,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is <a target="_blank"  href="http://www.sungjuhwang.com"><b><p>Sung Ju Hwang</p></b></a>.
-      Previously, I was research intern at <a target="_blank" href="https://www.42maru.ai"><b>42Maru</b></a>.
+      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is <a target="_blank"  href="http://www.sungjuhwang.com"><b><u>Sung Ju Hwang</u></b></a>.
+      Previously, I was research intern at <a target="_blank" href="https://www.42maru.ai"><u>42Maru</u></a>.
 
 education:
     - degree: M.S. in Artificial Intelligence
