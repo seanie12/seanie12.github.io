@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is <a target="_blank"  href="http://www.sungjuhwang.com"><strong>Sung Ju Hwang</strong></a>.
+      I am master student at KAIST, working on natural language processing and machine learning. My supervisor is <a target="_blank"  href="http://www.sungjuhwang.com"><b>Sung Ju Hwang</b></a>.
       Previously, I was research intern at <a target="_blank" href="https://www.42maru.ai">42Maru</a>.
 
 education:
@@ -94,17 +94,17 @@ publications:
 
       - title: "g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset"
         link: "https://arxiv.org/abs/2004.03136"
-        authors: Kyubyong Park*, <strong>Seanie Lee*</strong>
+        authors: Kyubyong Park*, <b>Seanie Lee*</b>
         conference: arXiv preprint
       
       - title: Domain-agnostic question-answering with adversarial training
         link: "https://arxiv.org/abs/1910.09342"
-        authors: <strong>Seanie Lee*</strong>, Donggyu Kim*, and Jangwon Park*.
+        authors: <b>Seanie Lee*</b>, Donggyu Kim*, and Jangwon Park*.
         conference: EMNLP-IJCNLP 2019 MRQA Workshop shared task
 
       - title: Incorporating product description to sentiment topic models for improved aspect-based sentiment analysis
         link: "https://www.sciencedirect.com/science/article/pii/S0020025518303499"
-        authors: Reinald Kim Amplayo, <strong>Seanie Lee</strong>, and Min Song.
+        authors: Reinald Kim Amplayo, <b>Seanie Lee</b>, and Min Song.
         conference: "Information Sciences 454 (2018): 200-215"
 
 projects:
