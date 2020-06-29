@@ -122,11 +122,11 @@ projects:
 
       - title: Group study of Linear Algebra
         link: "https://github.com/seanie12/linear-algebra"
-        tagline: "Group Study of linear algebra, supervised by Hobin Jeong. The main text book is Elementary Linear Algebra (Friedberg et al) and 선형대수와 군(Linear Algebra and Group)"
+        tagline: "Group Study of Linear Algebra. The main text book is Elementary Linear Algebra (Friedberg et al) and 선형대수와 군 (Linear Algebra and Group)"
       
       - title: Silver Medal in NLP challenge
         link: "https://github.com/monologg/naver-nlp-challenge-2018"
-        tagline: "Won silver and bronze medal in NER(Named Entity Recognition) and SRL(Semantic Role Labeling)."
+        tagline: "Won silver and bronze medal in NER (Named Entity Recognition) and SRL (Semantic Role Labeling)."
 
 
 
