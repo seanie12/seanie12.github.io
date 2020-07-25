@@ -95,7 +95,7 @@ publications:
       - title: "g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset"
         link: "https://arxiv.org/abs/2004.03136"
         authors: Kyubyong Park*, <b><u>Seanie Lee</u>*</b>
-        conference: arXiv preprint
+        conference: INTERSPEECH 2020
       
       - title: Domain-agnostic question-answering with adversarial training
         link: "https://arxiv.org/abs/1910.09342"
