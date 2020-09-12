@@ -112,6 +112,10 @@ projects:
     # intro: >
       
     assignments:
+      - title: Group study of Mathematical Statistics
+        link: "https://github.com/seanie12/mathematical-statistics"
+        tagline: "Group Study of mathematical statistics. The main text book is mathematical statistics by 김우철"
+      
       - title: Benchmark dataset and package for Chinese Grapheme to Phoneme
         link: "https://github.com/kakaobrain/g2pM"
         tagline: "Release a new open-source benchmark dataset for Chinese Grapheme to Phoneme and python package"
