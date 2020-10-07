@@ -99,7 +99,7 @@ publications:
       
       - title: Domain-agnostic question-answering with adversarial training
         link: "https://arxiv.org/abs/1910.09342"
-        authors: <b><u>Seanie Lee</u>*</b>, Donggyu Kim*, and Jangwon Park*.
+        authors: <b><u>Seanie Lee</u>*</b>, Donggyu Kim*, Jangwon Park*.
         conference: EMNLP-IJCNLP 2019 MRQA Workshop shared task
 
       - title: Incorporating product description to sentiment topic models for improved aspect-based sentiment analysis
