@@ -87,17 +87,17 @@ publications:
     # intro: > 
       
     papers:
-      - title: Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs
+      - title: Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs. [<a href="https://www.aclweb.org/anthology/2020.acl-main.20/">paper</a>][<a href="https://github.com/seanie12/Info-HCVAE">code</a>][<a href="https://slideslive.com/38928851/generating-diverse-and-consistent-qa-pairs-from-contexts-with-informationmaximizing-hierarchical-conditional-vaes">video</a>]
         link: "https://arxiv.org/abs/2005.13837"
         authors: Dong Bok Lee*, <b><u>Seanie Lee</u>*</b>, WooTae Jeong, Donghwan Kim, Sung Ju Hwang 
         conference: ACL 2020
 
-      - title: "g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset"
+      - title: g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset. [<a href="https://arxiv.org/abs/2004.03136/">paper</a>][<a href="https://github.com/kakaobrain/g2pM">code</a>]
         link: "https://arxiv.org/abs/2004.03136"
         authors: Kyubyong Park*, <b><u>Seanie Lee</u>*</b>
         conference: INTERSPEECH 2020
       
-      - title: Domain-agnostic question-answering with adversarial training
+      - title: Domain-agnostic question-answering with adversarial training. [<a href="https://arxiv.org/abs/1910.09342">paper</a>][<a href="https://github.com/seanie12/mrqa">code</a>]
         link: "https://arxiv.org/abs/1910.09342"
         authors: <b><u>Seanie Lee</u>*</b>, Donggyu Kim*, Jangwon Park*.
         conference: EMNLP-IJCNLP 2019 MRQA Workshop shared task
