@@ -101,6 +101,10 @@ publications:
         authors: <b><u>Seanie Lee</u>*</b>, Donggyu Kim*, Jangwon Park*.
         conference: EMNLP-IJCNLP 2019 MRQA Workshop shared task    
       
+      - title: "Incorporating product description to sentiment topic models for improved aspect-based sentiment analysis"
+        link: "https://www.sciencedirect.com/science/article/pii/S0020025518303499"
+        authors: Reinald Kim Amplayo, <b><u>Seanie Lee</u></b>, and Min Song.
+        conference: "Information Sciences 454 (2018): 200-215"
 
 projects:
     title: Projects
