@@ -86,8 +86,13 @@ publications:
     title: Publications
     # intro: > 
     papers:
+      - title: "Contrastive Learning with Adversarial Perturbations for Conditional Text Generation"
+        link: "https://arxiv.org/abs/2012.07280"
+        authors: <b><u>Seanie Lee</u>*</b>, Dong Bok Lee*, Sung Ju Hwang 
+        conference: preprint    
+      
       - title: "Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs"
-        link: "https://arxiv.org/abs/2005.13837"
+        link: "https://www.aclweb.org/anthology/2020.acl-main.20/"
         authors: Dong Bok Lee*, <b><u>Seanie Lee</u>*</b>, WooTae Jeong, Donghwan Kim, Sung Ju Hwang 
         conference: ACL 2020
 
