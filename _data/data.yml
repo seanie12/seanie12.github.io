@@ -89,7 +89,7 @@ publications:
       - title: "Contrastive Learning with Adversarial Perturbations for Conditional Text Generation"
         link: "https://arxiv.org/abs/2012.07280"
         authors: <b><u>Seanie Lee</u>*</b>, Dong Bok Lee*, Sung Ju Hwang 
-        conference: preprint    
+        conference: ICLR 2021    
       
       - title: "Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs"
         link: "https://www.aclweb.org/anthology/2020.acl-main.20/"
