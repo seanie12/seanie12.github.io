@@ -87,9 +87,14 @@ publications:
     # intro: > 
     papers:
       - title: "Contrastive Learning with Adversarial Perturbations for Conditional Text Generation"
-        link: "https://arxiv.org/abs/2012.07280"
+        link: "https://openreview.net/pdf?id=Wga_hrCa3P3"
         authors: <b><u>Seanie Lee</u>*</b>, Dong Bok Lee*, Sung Ju Hwang 
         conference: ICLR 2021    
+
+      - title: "Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning"
+        link: "https://openreview.net/pdf?id=wS0UFjsNYjn"
+        authors: Dong Bok Lee, Dongchan Min, <b><u>Seanie Lee</u></b>, Sung Ju Hwang 
+        conference: ICLR 2021
       
       - title: "Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs"
         link: "https://www.aclweb.org/anthology/2020.acl-main.20/"
