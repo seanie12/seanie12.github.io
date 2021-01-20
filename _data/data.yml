@@ -40,6 +40,8 @@ sidebar:
       - item: Mathematics
         link:
 
+      - item: Statistics
+
 career-profile:
     title: Career Profile
     summary: |
@@ -155,4 +157,7 @@ skills:
         level: 30%
 
       - name: Mathematics 
-        level: 5%
+        level: 1%
+
+      - name: Statistics
+        level: 1%
