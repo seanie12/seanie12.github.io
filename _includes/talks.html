@@ -18,7 +18,7 @@
 
   {% for venue in talks.venues %}
   <div class="item">
-    {% if talk.link %}
+    {% if venue.link %}
       <li><a href="{{ venue.link }}">{{ venue.title }}</a></li>
     {% else %}
       <li>{{ venue.title }}</li>
