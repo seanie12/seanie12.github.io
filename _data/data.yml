@@ -118,10 +118,10 @@ publications:
         authors: Reinald Kim Amplayo, <b><u>Seanie Lee</u></b>, and Min Song.
         conference: "Information Sciences 454 (2018): 200-215"
 
-talks:
-    title:Invited Talks
-    venues:
-        -title: Tech. talk, NAVER corp., Korea, December. 2020, prsenting our ACL 2020 paper.
+# talks:
+#     title:Invited Talks
+#     venues:
+#         -title: Tech. talk, NAVER corp., Korea, December. 2020, prsenting our ACL 2020 paper.
 
 projects:
     title: Projects
