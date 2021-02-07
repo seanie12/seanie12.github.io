@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: lsnfamily02@gmail.com
     phone: 
-    website:  #do not add http://
+    website: seanie12.github.io/blog/ #do not add http://
     github: seanie12
     gitlab:
     bitbucket:
@@ -39,6 +39,8 @@ sidebar:
 
       - item: Mathematics
         link:
+
+      - item: Statistics
 
 career-profile:
     title: Career Profile
@@ -116,6 +118,11 @@ publications:
         authors: Reinald Kim Amplayo, <b><u>Seanie Lee</u></b>, and Min Song.
         conference: "Information Sciences 454 (2018): 200-215"
 
+# talks:
+#     title:Invited Talks
+#     venues:
+#         -title: Tech. talk, NAVER corp., Korea, December. 2020, prsenting our ACL 2020 paper.
+
 projects:
     title: Projects
     # intro: >
@@ -155,4 +162,7 @@ skills:
         level: 30%
 
       - name: Mathematics 
-        level: 5%
+        level: 1%
+
+      - name: Statistics
+        level: 1%
