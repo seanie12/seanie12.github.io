@@ -89,7 +89,7 @@ publications:
     # intro: > 
     papers:
       - title: "Self-supervised Text-to-SQL Learning with Header Alignment Training"
-        #link: "https://openreview.net/pdf?id=Wga_hrCa3P3"
+        link: "https://arxiv.org/abs/2103.06402"
         authors: Donggyu kim, <b><u>Seanie Lee</u>*</b>
         conference: arxiv preprint    
 
