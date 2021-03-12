@@ -88,6 +88,11 @@ publications:
     title: Publications
     # intro: > 
     papers:
+      - title: "Self-supervised Text-to-SQL Learning with Header Alignment Training"
+        #link: "https://openreview.net/pdf?id=Wga_hrCa3P3"
+        authors: Donggyu kim, <b><u>Seanie Lee</u>*</b>
+        conference: arxiv preprint    
+
       - title: "Contrastive Learning with Adversarial Perturbations for Conditional Text Generation"
         link: "https://openreview.net/pdf?id=Wga_hrCa3P3"
         authors: <b><u>Seanie Lee</u>*</b>, Dong Bok Lee*, Sung Ju Hwang 
