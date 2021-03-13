@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am master student at KAIST, working on natural language processing and machine learning. My supervisors are <a target="_blank"  href="http://www.sungjuhwang.com"><b><u>Sung Ju Hwang</u></b></a> and <a target="_blank"  href="https://juho-lee.github.io/"><b><u>Juho Lee</u></b></a>.
+      I am master student at KAIST, working on natural language processing and machine learning. I am fortunate to be supervised by <a target="_blank"  href="http://www.sungjuhwang.com"><b><u>Sung Ju Hwang</u></b></a> and <a target="_blank"  href="https://juho-lee.github.io/"><b><u>Juho Lee</u></b></a>.
       Here is my <a href="../cv/cv.pdf" class="link-in-list"><b><u>CV</u></b></a>.
 
 education:
@@ -90,7 +90,7 @@ publications:
     papers:
       - title: "Self-supervised Text-to-SQL Learning with Header Alignment Training"
         link: "https://arxiv.org/abs/2103.06402"
-        authors: Donggyu kim, <b><u>Seanie Lee</u>*</b>
+        authors: Donggyu kim, <b><u>Seanie Lee</u></b>
         conference: arxiv preprint    
 
       - title: "Contrastive Learning with Adversarial Perturbations for Conditional Text Generation"
@@ -123,10 +123,6 @@ publications:
         authors: Reinald Kim Amplayo, <b><u>Seanie Lee</u></b>, and Min Song.
         conference: "Information Sciences 454 (2018): 200-215"
 
-# talks:
-#     title:Invited Talks
-#     venues:
-#         -title: Tech. talk, NAVER corp., Korea, December. 2020, prsenting our ACL 2020 paper.
 
 projects:
     title: Projects
