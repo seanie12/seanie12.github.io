@@ -88,6 +88,11 @@ publications:
     title: Publications
     # intro: > 
     papers:
+      - title: "Learning to Perturb Word Embeddings for Out-of-distribution QA"
+#         link: "https://arxiv.org/abs/2103.06402"
+        authors: <b><u>Seanie Lee*</u></b>, Minki Kang, Juho Lee, Sung Ju Hwang
+        conference: ACL 2021
+      
       - title: "Self-supervised Text-to-SQL Learning with Header Alignment Training"
         link: "https://arxiv.org/abs/2103.06402"
         authors: Donggyu kim, <b><u>Seanie Lee</u></b>
