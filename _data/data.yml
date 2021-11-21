@@ -90,7 +90,7 @@ publications:
     papers:
       - title: "Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning"
         link: "https://arxiv.org/abs/2110.02600"
-        authors: Seanie Lee*, Hae Beom Lee*, Juho Lee, Sung Ju Hwang
+        authors: <b><u>Seanie Lee*</u></b>, Hae Beom Lee*, Juho Lee, Sung Ju Hwang
         conference: arxiv preprint    
       
       - title: "Stochastic Subset Selection for Efficient Training and Inference of Neural Networks"
