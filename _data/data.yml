@@ -1,16 +1,13 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output. 
 #
-
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-
     # Profile information
     name: Seanie Lee
-    tagline: PhD Student
+    tagline: Master Student
     avatar: seanie_profile.jfif   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
     # Sidebar links
     email: lsnfamily02@gmail.com
     phone: 
@@ -21,58 +18,37 @@ sidebar:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-
     languages:
       - idiom: Korean
         level: Native
-
       - idiom: English
         level: Intermediate
-
         
     interests:
       - item: Natural Language Processing
         link:
-
       - item: Bayesian Deep Learning
         link:
-
       - item: Mathematics
         link:
-
       - item: Statistics
-
 career-profile:
     title: Career Profile
     summary: |
-      I am a PhD student at  <a target="_blank" href="https://www.mlai-kaist.com/"> <b>Machine Learning and Artificial Intelligence (MLAI) lab</b></a> in KAIST, working on natural language processing, meta learning, and Bayesian deep learning. I am fortunate to be advised by <a target="_blank"  href="http://www.sungjuhwang.com"><b><u>Sung Ju Hwang</u></b></a> and <a target="_blank"  href="https://juho-lee.github.io/"><b><u>Juho Lee</u></b></a>.
+      I am a Master student at  <a target="_blank" href="https://www.mlai-kaist.com/"> <b>Machine Learning and Artificial Intelligence (MLAI) lab</b></a> in KAIST, working on natural language processing and machine learning. I am fortunate to be advised by <a target="_blank"  href="http://www.sungjuhwang.com"><b><u>Sung Ju Hwang</u></b></a> and <a target="_blank"  href="https://juho-lee.github.io/"><b><u>Juho Lee</u></b></a>.
       Here is my <a href="../cv/cv.pdf" class="link-in-list"><b><u>CV</u></b></a>.
-
 education:
-     
-     - degree: PhD. in Artificial Intelligence
-      university: Korea Advanced Institute of Science and Technology
-      time: 2022 - present
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
     - degree: M.S. in Artificial Intelligence
       university: Korea Advanced Institute of Science and Technology
-      time: 2020 - 2022
+      time: 2020 - present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
           - Interested in generative model
           - Supervised Sungju Hwang 
-
     - degree: B.A. in Library and Information Science
       university: Yonsei University
       time: 2011- 2018
@@ -82,10 +58,8 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
           - Bullet point
           - Bullet point 
-
 experiences:
     - role:  Research Intern
       time: 2019.2 - 2020.1 
@@ -93,8 +67,6 @@ experiences:
       details: |
           - Research on question generation and semi-supervised learning
           - Domain adaptation for Question Answering
-
-
 publications:
     title: Publications
     # intro: > 
@@ -103,9 +75,19 @@ publications:
         link: "https://arxiv.org/abs/2110.02600"
         authors: <b><u>Seanie Lee*</u></b>, Hae Beom Lee*, Juho Lee, Sung Ju Hwang
         conference: ICLR 2022    
-      
+
       - title: "Stochastic Subset Selection for Efficient Training and Inference of Neural Networks"
         link: "https://arxiv.org/abs/2006.14222"
+
+    
+          
+            
+    
+
+          
+    
+    
+  
         authors: Bruno Andreis, A. Tuan Nguyen, <b><u>Seanie Lee</u></b>, Juho Lee, Eunho Yang, Sung Ju Hwang
         conference: arxiv preprint    
     
@@ -118,12 +100,10 @@ publications:
         link: "https://arxiv.org/abs/2103.06402"
         authors: Donggyu kim, <b><u>Seanie Lee</u></b>
         conference: arxiv preprint    
-
       - title: "Contrastive Learning with Adversarial Perturbations for Conditional Text Generation"
         link: "https://openreview.net/forum?id=Wga_hrCa3P3"
         authors: <b><u>Seanie Lee</u>*</b>, Dong Bok Lee*, Sung Ju Hwang 
         conference: ICLR 2021    
-
       - title: "Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning"
         link: "https://openreview.net/forum?id=wS0UFjsNYjn"
         authors: Dong Bok Lee, Dongchan Min, <b><u>Seanie Lee</u></b>, Sung Ju Hwang 
@@ -133,12 +113,10 @@ publications:
         link: "https://www.aclweb.org/anthology/2020.acl-main.20/"
         authors: Dong Bok Lee*, <b><u>Seanie Lee</u>*</b>, WooTae Jeong, Donghwan Kim, Sung Ju Hwang 
         conference: ACL 2020
-
       - title: "g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset"
         link: "https://arxiv.org/abs/2004.03136"
         authors: Kyubyong Park*, <b><u>Seanie Lee</u>*</b>
         conference: INTERSPEECH 2020
-
       - title: "Domain-agnostic Question-Answering with Adversarial Training"
         link: "https://arxiv.org/abs/1910.09342"
         authors: <b><u>Seanie Lee</u>*</b>, Donggyu Kim*, Jangwon Park*.
@@ -148,8 +126,6 @@ publications:
         link: "https://www.sciencedirect.com/science/article/pii/S0020025518303499"
         authors: Reinald Kim Amplayo, <b><u>Seanie Lee</u></b>, and Min Song.
         conference: "Information Sciences 454 (2018): 200-215"
-
-
 projects:
     title: Projects
     # intro: >
@@ -166,7 +142,6 @@ projects:
       - title: Pytorch implementation for Question Generation
         link: "https://github.com/seanie12/neural-question-generation"
         tagline: "Pytorch implementation for the paper Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks."
-
       - title: Group study of Linear Algebra
         link: "https://github.com/seanie12/linear-algebra"
         tagline: "Group Study of Linear Algebra. The main text book is Elementary Linear Algebra (Friedberg et al) and 선형대수와 군 (Linear Algebra and Group)"
@@ -174,22 +149,14 @@ projects:
       - title: Silver Medal in NLP challenge
         link: "https://github.com/monologg/naver-nlp-challenge-2018"
         tagline: "Won silver and bronze medal in NER (Named Entity Recognition) and SRL (Semantic Role Labeling)."
-
-
-
-
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Natual Language Processing
         level: 50%
-
       - name: Deep Learning 
         level: 30%
-
       - name: Mathematics 
         level: 1%
-
       - name: Statistics
         level: 1%
