@@ -50,9 +50,19 @@ career-profile:
       Here is my <a href="../cv/cv.pdf" class="link-in-list"><b><u>CV</u></b></a>.
 
 education:
+     - degree: PhD. in Artificial Intelligence
+      university: Korea Advanced Institute of Science and Technology
+      time: 2022 - present
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
     - degree: M.S. in Artificial Intelligence
       university: Korea Advanced Institute of Science and Technology
-      time: 2020 - present
+      time: 2020 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
