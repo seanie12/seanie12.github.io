@@ -35,10 +35,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Phd student at  <a target="_blank" href="https://www.mlai-kaist.com/"> <b>Machine Learning and Artificial Intelligence (MLAI) lab</b></a> in KAIST, working on natural language processing and machine learning. I am fortunate to be advised by <a target="_blank"  href="http://www.sungjuhwang.com"><b><u>Sung Ju Hwang</u></b></a> and <a target="_blank"  href="https://juho-lee.github.io/"><b><u>Juho Lee</u></b></a>.
+      I am a PhD student at  <a target="_blank" href="https://www.mlai-kaist.com/"> <b>Machine Learning and Artificial Intelligence (MLAI) lab</b></a> in KAIST, working on natural language processing and machine learning. I am fortunate to be advised by <a target="_blank"  href="http://www.sungjuhwang.com"><b><u>Sung Ju Hwang</u></b></a> and <a target="_blank"  href="https://juho-lee.github.io/"><b><u>Juho Lee</u></b></a>.
       Here is my <a href="../cv/cv.pdf" class="link-in-list"><b><u>CV</u></b></a>.
 education:
-    - degree: Phd. in Artificial Intelligence
+    - degree: PhD in Artificial Intelligence
       university: Korea Advanced Institute of Science and Technology
       time: 2022 - present
       details: |
