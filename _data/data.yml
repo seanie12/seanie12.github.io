@@ -83,15 +83,15 @@ publications:
     title: Publications
     # intro: > 
     papers:
-      - title: "Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning"
+     - title: "Set Based Stochastic Subsampling"
+        link: "https://arxiv.org/"
+        authors: Bruno Andreis, <b><u>Seanie Lee</u></b>, A. Tuan Nguyen,  Juho Lee, Eunho Yang, Sung Ju Hwang
+        conference: ICML 2022   
+
+    - title: "Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning"
         link: "https://arxiv.org/abs/2110.02600"
         authors: <b><u>Seanie Lee*</u></b>, Hae Beom Lee*, Juho Lee, Sung Ju Hwang
-        conference: ICLR 2022    
-
-      - title: "Stochastic Subset Selection for Efficient Training and Inference of Neural Networks"
-        link: "https://arxiv.org/abs/2006.14222"
-        authors: Bruno Andreis, A. Tuan Nguyen, <b><u>Seanie Lee</u></b>, Juho Lee, Eunho Yang, Sung Ju Hwang
-        conference: arxiv preprint    
+        conference: ICLR 2022      
     
       - title: "Learning to Perturb Word Embeddings for Out-of-distribution QA"
         link: "https://arxiv.org/abs/2105.02692"
