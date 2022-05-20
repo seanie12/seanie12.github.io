@@ -1,25 +1,33 @@
 ---
-#Add "layout: compress" here to compress the html code
+layout: compress
 ---
-<!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
-{% include head.html %}
 
-<body>
-  <div class="wrapper">
-    {% include sidebar.html %}
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-    <div class="main-wrapper">
-        {{ content }}
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
     </div>
-  </div>
 
-  {% include footer.html %}
+    {% include scripts.html %}
 
-{% include scripts.html %}
-</body>
-
+  </body>
 </html>
-
