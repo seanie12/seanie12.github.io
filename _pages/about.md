@@ -81,7 +81,7 @@ Kyubyong Park\*, **Seanie Lee\*** (\*: equal contribution) \\
 - *2008.03 - 2011.02*, Hanyoung Foreign Language High School.
 
 # 💬 Invited Talks
-- *2021.12*, Tech. talk, NAVER corp. Present ACL 2022 paper.
+- *2021.12*, Tech. talk, NAVER corp. Present ACL 2020 paper. 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
