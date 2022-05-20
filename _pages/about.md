@@ -78,6 +78,7 @@ Kyubyong Park\*, **Seanie Lee\*** (\*: equal contribution) \\
 - *2022.03 - present*, PhD. in Artificial Intelligence. Korea Advanced Institute of Science and Technology.
 - *2020.03 - 2022.02*, M.S. in Artificial Intelligence. Korea Advanced Institute of Science and Technology.
 - *2011.03 - 2018.02*, B.A. in Library and Information Science. Yonsei University.
+- *2008.03 - 2011.02*, Hanyoung Foreign Language High School.
 
 # 💬 Invited Talks
 - *2021.12*, Tech. talk, NAVER corp. Present ACL 2022 paper.
