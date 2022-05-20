@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/) lab in KAIST, working on meta-learning and machine learning. I am fortunate to be advised by professor [Sung Ju Hwang](http://www.sungjuhwang.com/) and [Juho Lee](https://juho-lee.github.io/). 
+I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/) lab in KAIST, working on meta-learning and machine learning. I am fortunate to be advised by Professor [Sung Ju Hwang](http://www.sungjuhwang.com/) and [Juho Lee](https://juho-lee.github.io/). 
 
 
 
