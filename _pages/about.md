@@ -22,12 +22,16 @@ I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](http
 
 
 
-# 🔥 News
+# 🔥 News 
 - *2022.05*: &nbsp;🎉🎉 One paper accepted to ICML2022. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
+- <font size="4">Set-based Meta-Interpolation for Few-Task Meta-Learning</font>
+[[paper]](https://arxiv.org/abs/2205.09990) \\
+ **Seanie Lee\***, Bruno Andreis\*, Kenji Kawaguchi,Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
+<span style="color:darkred">**Arxiv**</span> preprint
 
 - <font size="4">Set Based Stochastic Subsampling</font>
 [[paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=17893) \\
@@ -85,4 +89,4 @@ Kyubyong Park\*, **Seanie Lee\*** (\*: equal contribution) \\
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.07 - 2022.*, [NUS](https://ml.comp.nus.edu.sg/), Host: [Kenji Kwaguchi](https://ml.comp.nus.edu.sg/kawaguchi)
+- *2022.06 - 2022.*, Remote internship at [NUS](https://ml.comp.nus.edu.sg/), Host: [Kenji Kwaguchi](https://ml.comp.nus.edu.sg/kawaguchi)
