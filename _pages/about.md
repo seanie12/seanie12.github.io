@@ -30,7 +30,7 @@ I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](http
 
 - <font size="4">Set-based Meta-Interpolation for Few-Task Meta-Learning</font>
 [[paper]](https://arxiv.org/abs/2205.09990) \\
- **Seanie Lee\***, Bruno Andreis\*, Kenji Kawaguchi,Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
+ **Seanie Lee\***, Bruno Andreis\*, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**Arxiv**</span> preprint
 
 - <font size="4">Set Based Stochastic Subsampling</font>
