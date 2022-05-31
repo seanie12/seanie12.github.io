@@ -34,7 +34,7 @@ I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](http
 <span style="color:darkred">**Arxiv**</span> preprint
 
 - <font size="4">Set Based Stochastic Subsampling</font>
-[[paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=17893) \\
+[[paper]](https://arxiv.org/abs/2006.14222) \\
 Bruno Andreis, **Seanie Lee**, A. Tuan Nguyen, Juho Lee, Eunho Yang, Sung Ju Hwang \\
 <span style="color:darkred">**ICML**</span> 2022
 
