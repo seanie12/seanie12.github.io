@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Seanie Lee"
+title                    : "Seanie Lee (이신의)"
 description              : "Interested in Deep Learning and Machine Learning. Hobby for mathematics."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
