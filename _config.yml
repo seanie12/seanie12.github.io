@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Seanie Lee (이신의)"
+title                    : "Seanie Lee"
 description              : "Interested in Deep Learning and Machine Learning. Hobby for mathematics."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Seanie Lee"
+  name             : "Seanie Lee (이신의)"
   avatar           : "images/seanie_profile.jpeg"
   bio              : "PhD. Student at KAIST"
   location         : "Dajeon, South Korea"
