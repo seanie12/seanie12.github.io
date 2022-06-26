@@ -89,4 +89,4 @@ Kyubyong Park\*, **Seanie Lee\*** (\*: equal contribution) \\
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.06 - 2022.*, Remote internship at [NUS](https://ml.comp.nus.edu.sg/), Host: [Kenji Kwaguchi](https://ml.comp.nus.edu.sg/kawaguchi)
+- *2022.06 - 2022.*, Remote internship at [NUS](https://ml.comp.nus.edu.sg/), Host: [Kenji Kawaguchi](https://ml.comp.nus.edu.sg/kawaguchi)
