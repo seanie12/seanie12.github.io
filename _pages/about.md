@@ -31,45 +31,45 @@ I am a PhD student at [Machine Learning and Artificial Intelligence (MLAI)](http
 - <font size="4">Set-based Meta-Interpolation for Few-Task Meta-Learning</font>
 [[paper]](https://arxiv.org/abs/2205.09990) \\
  **Seanie Lee\***, Bruno Andreis\*, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**Arxiv**</span> preprint
+<span style="color:#7289da">**Arxiv**</span> preprint
 
 - <font size="4">Set Based Stochastic Subsampling</font>
 [[paper]](https://arxiv.org/abs/2006.14222) \\
 Bruno Andreis, **Seanie Lee**, A. Tuan Nguyen, Juho Lee, Eunho Yang, Sung Ju Hwang \\
-<span style="color:darkred">**ICML**</span> 2022
+<span style="color:#7289da">**ICML**</span> 2022
 
 - <font size="4">Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning</font>
 [[paper]](https://openreview.net/forum?id=ivQruZvXxtz) \\
 **Seanie Lee\***, Hae Beom Lee\*, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2022
+<span style="color:#7289da">**ICLR**</span> 2022
 
 - <font size="4">Learning to Perturb Word Embeddings for Out-of-distribution QA</font>
 [[paper]](https://aclanthology.org/2021.acl-long.434/) \\
 **Seanie Lee\***, Minki Kang\*, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ACL**</span> 2021
+<span style="color:#7289da">**ACL**</span> 2021
 
 - <font size="4">Contrastive Learning with Adversarial Perturbations for Conditional Text Generation</font>
 [[paper]](https://openreview.net/forum?id=Wga_hrCa3P3) \\
 **Seanie Lee\***, Dong Bok Lee\*, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2021
+<span style="color:#7289da">**ICLR**</span> 2021
 
 
 - <font size="4">Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning</font>
 [[paper]](https://openreview.net/forum?id=wS0UFjsNYjn) \\
 Dong Bok Lee, Dongchan Min, **Seanie Lee**, Sung Ju Hwang \\
-<span style="color:darkred">**ICLR**</span> 2021
+<span style="color:#7289da">**ICLR**</span> 2021
 
 
 - <font size="4">Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs</font>
 [[paper]](https://aclanthology.org/2020.acl-main.20/) \\
  Dong Bok Lee\*, **Seanie Lee\***, WooTae Jeong, Donghwan Kim, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ACL**</span> 2020
+<span style="color:#7289da">**ACL**</span> 2020
 
 
 - <font size="4">g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset</font>
 [[paper]](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/1094.pdf) \\
 Kyubyong Park\*, **Seanie Lee\*** (\*: equal contribution) \\
-<span style="color:darkred">**INTERSPEECH**</span> 2020
+<span style="color:#7289da">**INTERSPEECH**</span> 2020
 
 
 
