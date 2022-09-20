@@ -29,16 +29,17 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 # 📝 Publications 
 
+- <font size="4">Set-based Meta-Interpolation for Few-Task Meta-Learning</font>
+[[paper]](https://arxiv.org/abs/2205.09990) \\
+ **Seanie Lee\***, Bruno Andreis\*, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
+<span style="color:purple">**NeurIPS**</span> 2022
+
 
 - <font size="4">On Divergence Measures for Bayesian Pseudocoresets</font>
 [[paper]](https://arxiv.org/) \\
  Balhae Kim, Jungwon Choi, **Seanie Lee**, Yoonho Lee, Jung-Woo Ha, Juho Lee \\
 <span style="color:purple">**NeurIPS**</span> 2022
 
-- <font size="4">Set-based Meta-Interpolation for Few-Task Meta-Learning</font>
-[[paper]](https://arxiv.org/abs/2205.09990) \\
- **Seanie Lee\***, Bruno Andreis\*, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:purple">**NeurIPS**</span> 2022
 
 - <font size="4">Set Based Stochastic Subsampling</font>
 [[paper]](https://arxiv.org/abs/2006.14222) \\
