@@ -29,6 +29,11 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 # 📝 Publications 
 
+- <font size="4">Self-Distillation for Further Pre-training of Transformers</font>
+[[paper]](https://arxiv.org/) \\
+ **Seanie Lee**, Minki Kang,  Juho Lee, Sung Ju Hwang, Kenji Kawaguchi  \\
+<span style="color:purple">**Arxiv**</span> 2022
+
 - <font size="4">Set-based Meta-Interpolation for Few-Task Meta-Learning</font>
 [[paper]](https://arxiv.org/abs/2205.09990) \\
  **Seanie Lee\***, Bruno Andreis\*, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
