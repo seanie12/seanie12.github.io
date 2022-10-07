@@ -30,7 +30,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 # 📝 Publications 
 
 - <font size="4">Self-Distillation for Further Pre-training of Transformers</font>
-[[paper]](https://arxiv.org/) \\
+[[paper]](http://arxiv.org/abs/2210.02871) \\
  **Seanie Lee**, Minki Kang,  Juho Lee, Sung Ju Hwang, Kenji Kawaguchi  \\
 <span style="color:purple">**Arxiv**</span> 2022
 
