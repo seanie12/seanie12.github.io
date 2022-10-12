@@ -22,7 +22,8 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 
-# 🔥 News 
+# 🔥 News
+- *2022.10*: **Google Travel Grant** for NeurIPS 2022 from Google
 - *2022.09*: &nbsp;🎉🎉 Two papers accepted to NeurIPS2022. 
 - *2022.05*: &nbsp;🎉🎉 One paper accepted to ICML2022. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -88,6 +89,7 @@ Kyubyong Park\*, **Seanie Lee\*** (\*: equal contribution) \\
 
 
 # 🎖 Honors and Awards
+- **Google Travel Grant** for NeurIPS 2022 from Google
 - *2018.12* [Silver Medal in NLP challenge](https://github.com/monologg/naver-nlp-challenge-2018).
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
