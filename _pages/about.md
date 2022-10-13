@@ -42,7 +42,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 - <font size="4">On Divergence Measures for Bayesian Pseudocoresets</font>
-[[paper]](https://nips.cc/Conferences/2022/Schedule?showEvent=54418) \\
+[[paper]](http://arxiv.org/abs/2210.06205) \\
  Balhae Kim, Jungwon Choi, **Seanie Lee**, Yoonho Lee, Jung-Woo Ha, Juho Lee \\
 <span style="color:purple">**NeurIPS**</span> 2022
 
