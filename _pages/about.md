@@ -24,8 +24,8 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 # 🔥 News
 - *2022.10*: &nbsp;✈️ **Google Travel Grant** for NeurIPS 2022 from Google.
-- *2022.09*: &nbsp;🎉🎉 Two papers accepted to NeurIPS2022. 
-- *2022.05*: &nbsp;🎉🎉 One paper accepted to ICML2022. 
+- *2022.09*: &nbsp;🎉🎉 Two papers accepted to NeurIPS 2022. 
+- *2022.05*: &nbsp;🎉🎉 One paper accepted to ICML 2022. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
