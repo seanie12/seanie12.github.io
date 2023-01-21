@@ -23,6 +23,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 # 🔥 News
+- *2023.01*: &nbsp;🎉🎉 Two papers accepted ti ICLR 2023.
 - *2022.10*: &nbsp;✈️ **Google Travel Grant** for NeurIPS 2022 from Google.
 - *2022.09*: &nbsp;🎉🎉 Two papers accepted to NeurIPS 2022. 
 - *2022.05*: &nbsp;🎉🎉 One paper accepted to ICML 2022. 
@@ -33,7 +34,12 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 - <font size="4">Self-Distillation for Further Pre-training of Transformers</font>
 [[paper]](http://arxiv.org/abs/2210.02871) \\
  **Seanie Lee**, Minki Kang,  Juho Lee, Sung Ju Hwang, Kenji Kawaguchi  \\
-<span style="color:purple">**Arxiv**</span> 2022
+<span style="color:purple">**ICLR**</span> 2023
+
+- <font size="4">Self-Supervised Set Representation Learning for Unsupervised Meta-Learning</font>
+[[paper]](http://arxiv.org/) \\
+Dong Bok Lee\*, **Seanie Lee**\*,Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang (\*: equal contribution)  \\
+<span style="color:purple">**ICLR**</span> 2023
 
 - <font size="4">Set-based Meta-Interpolation for Few-Task Meta-Learning</font>
 [[paper]](https://arxiv.org/abs/2205.09990) \\
