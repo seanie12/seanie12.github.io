@@ -38,7 +38,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 - <font size="4">Self-Supervised Set Representation Learning for Unsupervised Meta-Learning</font>
 [[paper]](http://arxiv.org/) \\
-Dong Bok Lee\*, **Seanie Lee**\*,Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang (\*: equal contribution)  \\
+Dong Bok Lee\*, **Seanie Lee**\*, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang (\*: equal contribution)  \\
 <span style="color:purple">**ICLR**</span> 2023
 
 - <font size="4">Set-based Meta-Interpolation for Few-Task Meta-Learning</font>
