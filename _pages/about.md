@@ -31,6 +31,12 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 # 📝 Publications 
 
+- <font size="4">Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation</font>
+[[paper]](https://arxiv.org/abs/2208.12401) \\
+Jeff Willette\*  **Seanie Lee**\*, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang \\
+<span style="color:purple">**Arxiv**</span> 2023
+
+
 - <font size="4">Self-Distillation for Further Pre-training of Transformers</font>
 [[paper]](https://openreview.net/forum?id=kj6oK_Hj40) \\
  **Seanie Lee**, Minki Kang,  Juho Lee, Sung Ju Hwang, Kenji Kawaguchi  \\
