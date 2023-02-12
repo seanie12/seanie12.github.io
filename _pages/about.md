@@ -33,7 +33,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 - <font size="4">Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation</font>
 [[paper]](https://arxiv.org/abs/2208.12401) \\
-Jeff Willette\*  **Seanie Lee**\*, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang \\
+Jeffrey Willette\*  **Seanie Lee**\*, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:purple">**Arxiv**</span> 2023
 
 
@@ -102,7 +102,7 @@ Kyubyong Park\*, **Seanie Lee\*** (\*: equal contribution) \\
 
 # 🎖 Honors and Awards
 - **Google Travel Grant** for NeurIPS 2022 from Google
-- *2018.12* [Silver Medal in NLP challenge](https://github.com/monologg/naver-nlp-challenge-2018).
+- *2018.12* [Silver Medal in NLP challenge](https://github.com/naver/nlp-challenge).
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
