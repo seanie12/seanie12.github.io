@@ -102,7 +102,7 @@ Kyubyong Park\*, **Seanie Lee\*** (\*: equal contribution) \\
 
 
 # 🎖 Honors and Awards
--- *2023.03* A 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship </a>.
+- *2023.03* A 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship </a>.
 - **Google Travel Grant** for NeurIPS 2022 from Google
 - *2018.12* [Silver Medal in NLP challenge](https://github.com/naver/nlp-challenge).
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
