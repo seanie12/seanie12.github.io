@@ -23,7 +23,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 Selected as a 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship </a>.
+- *2023.03*: &nbsp;🎉🎉 Selected as a 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship</a>.
 - *2023.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2023.
 - *2022.10*: &nbsp;✈️ **Google Travel Grant** for NeurIPS 2022 from Google.
 - *2022.09*: &nbsp;🎉🎉 Two papers accepted to NeurIPS 2022. 
