@@ -34,7 +34,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 - <font size="4">Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation</font>
 [[paper]](https://arxiv.org/abs/2208.12401) \\
-Jeffrey Willette\*  **Seanie Lee**\*, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (\*: equal contribution) \\
+Jeffrey Willette\*  **Seanie Lee**\*, Bruno Andreis, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:purple">**Arxiv**</span> 2023
 
 
