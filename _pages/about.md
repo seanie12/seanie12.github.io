@@ -41,7 +41,7 @@ Jeffrey Willette\*  **Seanie Lee**\*, Bruno Andreis, Kenji Kawaguchi, Juho Lee a
 
 - <font size="4">Margin-based Neural Network Watermarking</font>
 [[paper]](https://arxiv.org/) \\
-Byungjoo Kim, Suyoung Lee,  **Seanie Lee**, Sooel Son and Sung Ju Hwang (\*: equal contribution) \\
+Byungjoo Kim, Suyoung Lee,  **Seanie Lee**, Sooel Son and Sung Ju Hwang  \\
 <span style="color:purple">**ICML**</span> 2023
 
 - <font size="4">Self-Distillation for Further Pre-training of Transformers</font>
