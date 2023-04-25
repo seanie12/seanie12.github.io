@@ -118,4 +118,5 @@ Kyubyong Park\* and **Seanie Lee\*** (\*: equal contribution) \\
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.06* - *2022.9*, Remote internship at [NUS](https://ml.comp.nus.edu.sg/), Host: [Kenji Kawaguchi](https://ml.comp.nus.edu.sg/kawaguchi)
+- *2023.06*- *2023.09*, Internship at Apple Cambridge. Host: <a href="https://www.matthen.com/" style="color: #7289da; text-decoration: none;">Matthew Henderson</a>.
+- *2022.06* - *2022.09*, Remote internship at <a href="https://ml.comp.nus.edu.sg/" style="color: #7289da; text-decoration: none;">NUS</a>. Host: <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>.
