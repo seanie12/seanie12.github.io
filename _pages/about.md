@@ -23,6 +23,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 # 🔥 News
+- *2023.04*: &nbsp;🎉🎉 Two papers accepted to ICML 2023.
 - *2023.03*: &nbsp;🎉🎉 Selected as a 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship</a>.
 - *2023.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2023.
 - *2022.10*: &nbsp;✈️ **Google Travel Grant** for NeurIPS 2022 from Google.
@@ -35,8 +36,13 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 - <font size="4">Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation</font>
 [[paper]](https://arxiv.org/abs/2208.12401) \\
 Jeffrey Willette\*  **Seanie Lee**\*, Bruno Andreis, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:purple">**Arxiv**</span> 2023
+<span style="color:purple">**ICML**</span> 2023
 
+
+- <font size="4">Margin-based Neural Network Watermarking</font>
+[[paper]](https://arxiv.org/) \\
+Byungjoo Kim, Suyoung Lee,  **Seanie Lee**, Sooel Son and Sung Ju Hwang (\*: equal contribution) \\
+<span style="color:purple">**ICML**</span> 2023
 
 - <font size="4">Self-Distillation for Further Pre-training of Transformers</font>
 [[paper]](https://openreview.net/forum?id=kj6oK_Hj40) \\
