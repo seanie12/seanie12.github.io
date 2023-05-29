@@ -35,13 +35,13 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 - <font size="4">Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks</font>
 [[paper]](https://arxiv.org/) \\
-Minki Kang, Seanie Lee, Jinheon Baek, Kenji Kawaguchi and Sung Ju Hwang \\
+Minki Kang, **Seanie Lee**, Jinheon Baek, Kenji Kawaguchi and Sung Ju Hwang \\
 <span style="color:purple">**Arxiv**</span> 2023
 
 
 - <font size="4">DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models</font>
 [[paper]](https://arxiv.org/abs/2305.16943) \\
-Sohyun Ahn\*  Hayeon Lee\*, Jaehyeong Jo, Seanie Lee and Sung Ju Hwang (\*: equal contribution) \\
+Sohyun Ahn\*  Hayeon Lee\*, Jaehyeong Jo, **Seanie Lee** and Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:purple">**Arxiv**</span> 2023
 
 
