@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration: none;">Machine Learning and Artificial Intelligence (MLAI)</a> lab in KAIST, working on meta-learning and machine learning. I am fortunate to be advised by Professor <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a> and <a href="https://juho-lee.github.io/" style="color: #7289da; text-decoration: none;">Juho Lee</a>. I also closely collaborate with <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>. My research is graciously supported by the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI Fellowship</a> and I am mentored by <a href="https://www.matthen.com/" style="color: #7289da; text-decoration: none;">Matthew Henderson</a>. Here is my <a href="https://seanie12.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
+I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration: none;">Machine Learning and Artificial Intelligence (MLAI)</a> lab in KAIST, working on meta-learning and machine learning. I am fortunate to be advised by Professor <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a> and <a href="https://juho-lee.github.io/" style="color: #7289da; text-decoration: none;">Juho Lee</a>. I also closely collaborate with <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>. My research is graciously supported by the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI Fellowship</a> and I am mentored by <a href="http://www.johannsen.com/" style="color: #7289da; text-decoration: none;">Anders Johannsen</a>. Here is my <a href="https://seanie12.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
 
 
 
@@ -137,5 +137,5 @@ Kyubyong Park\* and **Seanie Lee\*** (\*: equal contribution) \\
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.06*- *2023.09*, Internship at Apple Cambridge. Host: <a href="https://www.matthen.com/" style="color: #7289da; text-decoration: none;">Matthew Henderson</a>.
+- *2023.06*- *2023.09*, Internship at Apple Cambridge. Host: <a href="http://www.johannsen.com/" style="color: #7289da; text-decoration: none;">Anders Johannsen</a>.
 - *2022.06* - *2022.09*, Remote internship at <a href="https://ml.comp.nus.edu.sg/" style="color: #7289da; text-decoration: none;">NUS</a>. Host: <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>.
