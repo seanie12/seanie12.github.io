@@ -23,6 +23,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2023.
 - *2023.04*: &nbsp;🎉🎉 Two papers accepted to ICML 2023.
 - *2023.03*: &nbsp;🎉🎉 Selected as a 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship</a>.
 - *2023.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2023.
@@ -36,7 +37,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 - <font size="4">Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks</font>
 [[paper]](https://arxiv.org/abs/2305.18395) \\
 Minki Kang, **Seanie Lee**, Jinheon Baek, Kenji Kawaguchi and Sung Ju Hwang \\
-<span style="color:purple">**Arxiv**</span> 2023
+<span style="color:purple">**NeurIPS**</span> 2023
 
 
 - <font size="4">DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models</font>
