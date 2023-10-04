@@ -23,6 +23,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉🎉 I got an internship offer from [Mila](https://mila.quebec/en/), supervised by [Yoshua Bengio](https://yoshuabengio.org/).
 - *2023.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2023.
 - *2023.04*: &nbsp;🎉🎉 Two papers accepted to ICML 2023.
 - *2023.03*: &nbsp;🎉🎉 Selected as a 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship</a>.
