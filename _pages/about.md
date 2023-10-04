@@ -42,7 +42,7 @@ Minki Kang, **Seanie Lee**, Jinheon Baek, Kenji Kawaguchi and Sung Ju Hwang \\
 
 - <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
 [[paper]](https://arxiv.org/abs/2310.00841) \\
-Seul Lee, **Seanie Lee** and Sung Ju Hwang (\*: equal contribution) \\
+Seul Lee, **Seanie Lee** and Sung Ju Hwang \\
 <span style="color:purple">**Arxiv**</span> 2023
 
 
