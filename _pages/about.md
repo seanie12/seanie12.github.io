@@ -35,16 +35,21 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 # 📝 Publications 
 
-- <font size="4">Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks</font>
-[[paper]](https://arxiv.org/abs/2305.18395) \\
-Minki Kang, **Seanie Lee**, Jinheon Baek, Kenji Kawaguchi and Sung Ju Hwang \\
-<span style="color:purple">**NeurIPS**</span> 2023
+
+- <font size="4">Self-Supervised Dataset Distillation for Transfer Learning</font>
+[[paper]](https://arxiv.org/abs/2310.06511) \\
+Dong Bok Lee, **Seanie Lee**, Junho Ko, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang \\
+<span style="color:purple">**Arxiv**</span> 2023
 
 - <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
 [[paper]](https://arxiv.org/abs/2310.00841) \\
 Seul Lee, **Seanie Lee** and Sung Ju Hwang \\
 <span style="color:purple">**Arxiv**</span> 2023
 
+- <font size="4">Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks</font>
+[[paper]](https://arxiv.org/abs/2305.18395) \\
+Minki Kang, **Seanie Lee**, Jinheon Baek, Kenji Kawaguchi and Sung Ju Hwang \\
+<span style="color:purple">**NeurIPS**</span> 2023
 
 
 - <font size="4">DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models</font>
