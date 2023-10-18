@@ -38,7 +38,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 - <font size="4">Self-Supervised Dataset Distillation for Transfer Learning</font>
 [[paper]](https://arxiv.org/abs/2310.06511) \\
-Dong Bok Lee, **Seanie Lee**, Joonho Ko, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang \\
+Dong Bok Lee, **Seanie Lee\***, Joonho Ko, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:purple">**Arxiv**</span> 2023
 
 - <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
