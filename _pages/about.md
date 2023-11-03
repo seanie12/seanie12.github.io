@@ -145,6 +145,7 @@ Kyubyong Park\* and **Seanie Lee\*** (\*: equal contribution) \\
 <!-- - *2008.03 - 2011.02*, Hanyoung Foreign Language High School. -->
 
 # 💬 Invited Talks
+- *2023.10*, Tech. Talk, <a href="https://www.th-nuernberg.de/en/"style="color: #7289da; text-decoration: none;">Technische Hochschule Nürnberg Georg Simon Ohm</a>. Present <a href="https://docs.google.com/presentation/d/1s0M7g0kkl2tfiAEiX51uMoaAY7-EuEXt/edit?usp=sharing&ouid=117903268632818009810&rtpof=true&sd=true" style="color: #7289da; text-decoration: none;">Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation</a>.
 - *2023.05*, Tech. Talk, Samsung SDS. Present <a href="https://docs.google.com/presentation/d/1s0M7g0kkl2tfiAEiX51uMoaAY7-EuEXt/edit?usp=sharing&ouid=117903268632818009810&rtpof=true&sd=true" style="color: #7289da; text-decoration: none;">Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation</a>.
 - *2021.12*, Tech. Talk, NAVER corp. Present ACL 2020 paper. 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
