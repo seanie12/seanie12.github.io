@@ -125,7 +125,7 @@ Dong Bok Lee, Dongchan Min, **Seanie Lee** and Sung Ju Hwang \\
 
 
 - <font size="4">g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset</font>
-[[paper]](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/1094.pdf) \\
+[[paper]](https://www.isca-speech.org/archive/pdfs/interspeech_2020/park20c_interspeech.pdf) \\
 Kyubyong Park\* and **Seanie Lee\*** (\*: equal contribution) \\
 <span style="color:purple">**INTERSPEECH**</span> 2020
 
