@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration: none;">Machine Learning and Artificial Intelligence (MLAI)</a> lab in KAIST, working on meta-learning and machine learning. I am fortunate to be advised by Professor <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a> and <a href="https://juho-lee.github.io/" style="color: #7289da; text-decoration: none;">Juho Lee</a>. I also closely collaborate with <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>. My research is graciously supported by the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI Fellowship</a> and I am mentored by <a href="http://www.johannsen.com/" style="color: #7289da; text-decoration: none;">Anders Johannsen</a>. Here is my <a href="https://seanie12.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
+I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration: none;">Machine Learning and Artificial Intelligence (MLAI)</a> lab in KAIST, working on meta-learning and machine learning. I am fortunate to be advised by Professor <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a> and <a href="https://juho-lee.github.io/" style="color: #7289da; text-decoration: none;">Juho Lee</a>. I also closely collaborate with <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>. My research is graciously supported by the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI Fellowship</a>. Here is my <a href="https://seanie12.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
 
 
 
@@ -28,7 +28,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 - *2023.04*: &nbsp;🎉🎉 Two papers accepted to ICML 2023.
 - *2023.03*: &nbsp;🎉🎉 Selected as a 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship</a>.
 - *2023.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2023.
-- *2022.10*: &nbsp;✈️ **Google Travel Grant** for NeurIPS 2022 from Google.
+- *2022.10*: &nbsp;✈️✈️ **Google Travel Grant** for NeurIPS 2022 from Google.
 - *2022.09*: &nbsp;🎉🎉 Two papers accepted to NeurIPS 2022. 
 - *2022.05*: &nbsp;🎉🎉 One paper accepted to ICML 2022. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -38,7 +38,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 - <font size="4">Self-Supervised Dataset Distillation for Transfer Learning</font>
 [[paper]](https://arxiv.org/abs/2310.06511) \\
-Dong Bok Lee, **Seanie Lee\***, Joonho Ko, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
+Dong Bok Lee\*, **Seanie Lee\***, Joonho Ko, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:purple">**Arxiv**</span> 2023
 
 - <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
