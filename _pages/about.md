@@ -146,7 +146,7 @@ Kyubyong Park\* and **Seanie Lee\*** (\*: equal contribution) \\
 # 💻 Internships
 - *2024.01* - *2024.06*, Internship at <a href="https://mila.quebec/en/" style="color: #7289da; text-decoration: none;">Mila</a>. Host: <a href="https://yoshuabengio.org/" style="color: #7289da; text-decoration: none;">Yoshua Bengio</a>.
 
-- *2023.06*- *2023.09*, Internship at Apple Cambridge. Host: <a href="http://www.johannsen.com/" style="color: #7289da; text-decoration: none;">Anders Johannsen</a>.
+- *2023.06* - *2023.09*, Internship at Apple Cambridge. Host: <a href="http://www.johannsen.com/" style="color: #7289da; text-decoration: none;">Anders Johannsen</a>.
 - *2022.06* - *2022.09*, Remote internship at <a href="https://ml.comp.nus.edu.sg/" style="color: #7289da; text-decoration: none;">NUS</a>. Host: <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>.
 
 
