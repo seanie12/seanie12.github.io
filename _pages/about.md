@@ -22,6 +22,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2024.
 - *2023.09*: &nbsp;🎉🎉 I got an internship offer from <a href="https://mila.quebec/en/" style="color: #7289da; text-decoration: none;" >Mila</a>, supervised by <a href="https://yoshuabengio.org/" style="color: #7289da; text-decoration: none;">Yoshua Bengio</a>.
 - *2023.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2023.
 - *2023.04*: &nbsp;🎉🎉 Two papers accepted to ICML 2023.
@@ -34,11 +35,16 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 # 📝 Publications 
 
-
 - <font size="4">Self-Supervised Dataset Distillation for Transfer Learning</font>
 [[paper]](https://arxiv.org/abs/2310.06511) \\
 Dong Bok Lee\*, **Seanie Lee\***, Joonho Ko, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:purple">**Arxiv**</span> 2023
+<span style="color:purple">**ICLR**</span> 2024
+
+
+- <font size="4">DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models</font>
+[[paper]](https://arxiv.org/abs/2305.16943) \\
+Sohyun Ahn\*  Hayeon Lee\*, Jaehyeong Jo, **Seanie Lee** and Sung Ju Hwang (\*: equal contribution) \\
+<span style="color:purple">**ICLR**</span> 2024
 
 - <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
 [[paper]](https://arxiv.org/abs/2310.00841) \\
@@ -50,11 +56,6 @@ Seul Lee, **Seanie Lee** and Sung Ju Hwang \\
 Minki Kang, **Seanie Lee**, Jinheon Baek, Kenji Kawaguchi and Sung Ju Hwang \\
 <span style="color:purple">**NeurIPS**</span> 2023
 
-
-- <font size="4">DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models</font>
-[[paper]](https://arxiv.org/abs/2305.16943) \\
-Sohyun Ahn\*  Hayeon Lee\*, Jaehyeong Jo, **Seanie Lee** and Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:purple">**Arxiv**</span> 2023
 
 
 - <font size="4">Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation</font>
