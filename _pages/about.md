@@ -35,6 +35,12 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 # 📝 Publications 
 
+- <font size="4">Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries
+</font>
+[[paper]](https://arxiv.org/abs/2402.13043) \\
+**Seanie Lee**, Jianpeng Chen, Joris Driesen, Alexandru Coca and  Anders Johannsen \\
+<span style="color:purple">**Arxiv**</span> 2024
+
 - <font size="4">Self-Supervised Dataset Distillation for Transfer Learning</font>
 [[paper]](https://arxiv.org/abs/2310.06511) \\
 Dong Bok Lee\*, **Seanie Lee\***, Joonho Ko, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
