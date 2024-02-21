@@ -35,8 +35,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 # 📝 Publications 
 
-- <font size="4">Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries
-</font>
+- <font size="4">Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries</font>
 [[paper]](https://arxiv.org/abs/2402.13043) \\
 **Seanie Lee**, Jianpeng Chen, Joris Driesen, Alexandru Coca and  Anders Johannsen \\
 <span style="color:purple">**Arxiv**</span> 2024
