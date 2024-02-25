@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration: none;">Machine Learning and Artificial Intelligence (MLAI)</a> lab in KAIST, working on meta-learning and machine learning. I am fortunate to be advised by Professor <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a> and <a href="https://juho-lee.github.io/" style="color: #7289da; text-decoration: none;">Juho Lee</a>. I also closely collaborate with <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>. My research is graciously supported by the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI Fellowship</a>. Here is my <a href="https://seanie12.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
+I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration: none;">Machine Learning and Artificial Intelligence (MLAI)</a> lab in KAIST, working on Large Language Models and GFlowNet. I am fortunate to be advised by Professor <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a> and <a href="https://juho-lee.github.io/" style="color: #7289da; text-decoration: none;">Juho Lee</a>. I also closely collaborate with <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>. My research is graciously supported by the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI Fellowship</a>. Here is my <a href="https://seanie12.github.io/assets/cv.pdf" class="link-in-list" style="color: #7289da; text-decoration: none;"> cv</a>.
 
 
 
@@ -34,6 +34,11 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+- <font size="4">Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries</font>
+[[paper]](https://arxiv.org/abs/2402.13043) \\
+**Seanie Lee**, Jianpeng Chen, Joris Driesen, Alexandru Coca and  Anders Johannsen \\
+<span style="color:purple">**Arxiv**</span> 2024
 
 - <font size="4">Self-Supervised Dataset Distillation for Transfer Learning</font>
 [[paper]](https://arxiv.org/abs/2310.06511) \\
