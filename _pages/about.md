@@ -22,6 +22,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 One paper accepted to NAACL 2024.
 - *2024.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2024.
 - *2023.09*: &nbsp;🎉🎉 I got an internship offer from <a href="https://mila.quebec/en/" style="color: #7289da; text-decoration: none;" >Mila</a>, supervised by <a href="https://yoshuabengio.org/" style="color: #7289da; text-decoration: none;">Yoshua Bengio</a>.
 - *2023.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2023.
@@ -38,7 +39,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 - <font size="4">Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries</font>
 [[paper]](https://arxiv.org/abs/2402.13043) \\
 **Seanie Lee**, Jianpeng Chen, Joris Driesen, Alexandru Coca and  Anders Johannsen \\
-<span style="color:purple">**Arxiv**</span> 2024
+<span style="color:purple">**NAACL**</span> 2024
 
 - <font size="4">Self-Supervised Dataset Distillation for Transfer Learning</font>
 [[paper]](https://arxiv.org/abs/2310.06511) \\
