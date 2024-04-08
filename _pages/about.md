@@ -54,7 +54,7 @@ Sohyun Ahn\*  Hayeon Lee\*, Jaehyeong Jo, **Seanie Lee** and Sung Ju Hwang (\*: 
 
 - <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
 [[paper]](https://arxiv.org/abs/2310.00841) \\
-Seul Lee, **Seanie Lee** and Sung Ju Hwang \\
+Seul Lee, **Seanie Lee**, Kenji Kawaguchi and Sung Ju Hwang \\
 <span style="color:purple">**Arxiv**</span> 2023
 
 - <font size="4">Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks</font>
