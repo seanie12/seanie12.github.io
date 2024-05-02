@@ -22,6 +22,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024.
 - *2024.03*: &nbsp;🎉🎉 One paper accepted to NAACL 2024.
 - *2024.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2024.
 - *2023.09*: &nbsp;🎉🎉 I got an internship offer from <a href="https://mila.quebec/en/" style="color: #7289da; text-decoration: none;" >Mila</a>, supervised by <a href="https://yoshuabengio.org/" style="color: #7289da; text-decoration: none;">Yoshua Bengio</a>.
@@ -35,6 +36,10 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+- <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
+[[paper]](https://arxiv.org/abs/2310.00841) \\
+Seul Lee, **Seanie Lee**, Kenji Kawaguchi and Sung Ju Hwang \\
+<span style="color:purple">**ICML**</span> 2024
 
 - <font size="4">Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries</font>
 [[paper]](https://arxiv.org/abs/2402.13043) \\
@@ -51,11 +56,6 @@ Dong Bok Lee\*, **Seanie Lee\***, Joonho Ko, Kenji Kawaguchi, Juho Lee and Sung 
 [[paper]](https://arxiv.org/abs/2305.16943) \\
 Sohyun Ahn\*  Hayeon Lee\*, Jaehyeong Jo, **Seanie Lee** and Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:purple">**ICLR**</span> 2024
-
-- <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
-[[paper]](https://arxiv.org/abs/2310.00841) \\
-Seul Lee, **Seanie Lee**, Kenji Kawaguchi and Sung Ju Hwang \\
-<span style="color:purple">**Arxiv**</span> 2023
 
 - <font size="4">Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks</font>
 [[paper]](https://arxiv.org/abs/2305.18395) \\
