@@ -66,7 +66,7 @@ Minki Kang, **Seanie Lee**, Jinheon Baek, Kenji Kawaguchi and Sung Ju Hwang \\
 
 - <font size="4">Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation</font>
 [[paper]](https://arxiv.org/abs/2208.12401) \\
-Jeffrey Willette\*  **Seanie Lee**\*, Bruno Andreis, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
+Jeffrey Willette\*,  **Seanie Lee**\*, Bruno Andreis, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:purple">**ICML**</span> 2023
 
 
