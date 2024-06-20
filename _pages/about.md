@@ -36,7 +36,7 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-- <font Optimized Speculative Sampling for GPU Hardware Accelerators</font>
+- <font size="4">Optimized Speculative Sampling for GPU Hardware Accelerators</font>
 [[paper]](https://arxiv.org/abs/2406.11016) \\
 Dominik Wagner, **Seanie Lee**, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer, Tobias Bocklet \\
 <span style="color:purple">**arXiv**</span> 2024
