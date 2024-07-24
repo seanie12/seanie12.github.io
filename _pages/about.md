@@ -36,14 +36,17 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-- <font size="4">Optimized Speculative Sampling for GPU Hardware Accelerators</font>
-[[paper]](https://arxiv.org/abs/2406.11016) \\
-Dominik Wagner, **Seanie Lee**, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer and Tobias Bocklet \\
-<span style="color:purple">**arXiv**</span> 2024
 - <font size="4">Learning Diverse Attacks on Large Language Models for Robust Red-teaming and Safety Tuning</font>
 [[paper]](https://arxiv.org/abs/2405.18540) \\
 **Seanie Lee**, Minsu Kim, Lynn Cherif, David Dobre, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi, Gauthier Gidel, Yoshua Bengio, Nikolay Malkin and Moksh Jain  \\
 <span style="color:purple">**arXiv**</span> 2024
+
+
+- <font size="4">Optimized Speculative Sampling for GPU Hardware Accelerators</font>
+[[paper]](https://arxiv.org/abs/2406.11016) \\
+Dominik Wagner, **Seanie Lee**, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer and Tobias Bocklet \\
+<span style="color:purple">**arXiv**</span> 2024
+
 
 - <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
 [[paper]](https://arxiv.org/abs/2310.00841) \\
