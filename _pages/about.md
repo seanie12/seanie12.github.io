@@ -46,7 +46,7 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 - <font size="4">Optimized Speculative Sampling for GPU Hardware Accelerators</font>
 [[paper]](https://arxiv.org/abs/2406.11016) \\
 Dominik Wagner, **Seanie Lee**, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer and Tobias Bocklet \\
-<span style="color:purple">**arXiv**</span> 2024
+<span style="color:purple">**EMNLP**</span> 2024
 
 
 - <font size="4">Drug Discovery with Dynamic Goal-aware Fragments</font>
