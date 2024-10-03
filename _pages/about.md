@@ -37,6 +37,13 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+- <font size="4">HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models</font>
+[[paper]](https://arxiv.org/abs/2410.01524) \\
+**Seanie Lee**, Haebin Seong, Dong Bok Lee, Minki Kang, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee and Sung Ju Hwang  \\
+<span style="color:purple">**arXiv**</span> 2024
+
+
+
 - <font size="4">Learning Diverse Attacks on Large Language Models for Robust Red-teaming and Safety Tuning</font>
 [[paper]](https://arxiv.org/abs/2405.18540) \\
 **Seanie Lee**, Minsu Kim, Lynn Cherif, David Dobre, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi, Gauthier Gidel, Yoshua Bengio, Nikolay Malkin and Moksh Jain  \\
