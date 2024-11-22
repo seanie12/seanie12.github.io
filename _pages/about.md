@@ -50,6 +50,14 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 <span style="color:purple">**arXiv**</span> 2024
 
 
+
+
+- <font size="4">Calibrated Decision-Making through LLM-Assisted Retrieval</font>
+[[paper]](https://arxiv.org/abs/2411.08891) \\
+Chaeyun Jang, Hyungi Lee, **Seanie Lee** and Juho Lee \\
+<span style="color:purple">**arXiv**</span> 2024
+
+
 - <font size="4">Optimized Speculative Sampling for GPU Hardware Accelerators</font>
 [[paper]](https://arxiv.org/abs/2406.11016) \\
 Dominik Wagner, **Seanie Lee**, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer and Tobias Bocklet \\
