@@ -40,7 +40,7 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 
 - <font size="4">SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models</font>
 [[paper]](https://arxiv.org/abs/2502.12464) \\
-**Seanie Lee\***, Dong Bok Lee\*, Dominik Wagner, Minki Kang, Haebin Seong, Tobias Bocklet, Yoshua Bengio, Juho Lee and Sung Ju Hwang (\*: equal contribution)  \\
+**Seanie Lee\***, Dong Bok Lee\*, Dominik Wagner, Minki Kang, Haebin Seong, Tobias Bocklet, Juho Lee and Sung Ju Hwang (\*: equal contribution)  \\
 <span style="color:purple">**Arxiv**</span> 2025
 
 
