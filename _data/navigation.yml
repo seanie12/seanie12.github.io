@@ -9,7 +9,6 @@ main:
   - title: "Work Experience"
     url: "/#-internships"
   
-  
   - title: "Publications"
     url: "/#-publications"
 
@@ -18,6 +17,3 @@ main:
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
-
-  - title: "News"
-    url: "/#-news"
