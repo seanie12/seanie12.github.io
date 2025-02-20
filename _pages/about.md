@@ -22,19 +22,20 @@ I am a PhD student at <a href="https://www.mlai-kaist.com/" style="color: #7289d
 During my PhD study, I interned at Mila in 2024, where I had the opportunity to work with <a href="https://yoshuabengio.org/" style="color: #7289da; text-decoration: none;">Yoshua Bengio</a>, <a href="https://minsuukim.github.io//" style="color: #7289da; text-decoration: none;">Minsu Kim</a>, <a href="https://mj10.github.io/" style="color: #7289da; text-decoration: none;">Moksh Jain</a>, and <a href="https://malkin1729.github.io/" style="color: #7289da; text-decoration: none;">Kolya Malkin</a>. In 2023, I completed an internship at Apple Cambridge, working with <a href="http://www.johannsen.com/" style="color: #7289da; text-decoration: none;">Anders Johannsen</a> and <a href="https://scholar.google.com/citations?user=51FYPYsAAAAJ" style="color: #7289da; text-decoration: none;">Jianpeng Cheng</a>. In 2022, I did remote internship at NUS, working with <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>.
 
 
-# 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024.
-- *2024.03*: &nbsp;🎉🎉 One paper accepted to NAACL 2024.
-- *2024.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2024.
-- *2023.09*: &nbsp;🎉🎉 I got an internship offer from <a href="https://mila.quebec/en/" style="color: #7289da; text-decoration: none;" >Mila</a>, supervised by <a href="https://yoshuabengio.org/" style="color: #7289da; text-decoration: none;">Yoshua Bengio</a>.
-- *2023.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2023.
-- *2023.04*: &nbsp;🎉🎉 Two papers accepted to ICML 2023.
-- *2023.03*: &nbsp;🎉🎉 Selected as a 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship</a>.
-- *2023.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2023.
-- *2022.10*: &nbsp;✈️✈️ **Google Travel Grant** for NeurIPS 2022 from Google.
-- *2022.09*: &nbsp;🎉🎉 Two papers accepted to NeurIPS 2022. 
-- *2022.05*: &nbsp;🎉🎉 One paper accepted to ICML 2022. 
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 📖 Educations
+- *2022.03 - present*, PhD. in Artificial Intelligence. Korea Advanced Institute of Science and Technology.
+- *2020.03 - 2022.02*, M.S. in Artificial Intelligence. Korea Advanced Institute of Science and Technology.
+- *2011.03 - 2018.02*, B.A. in Library and Information Science. Yonsei University.
+<!-- - *2008.03 - 2011.02*, Hanyoung Foreign Language High School. -->
+
+
+
+# 💻 Work Experience
+- *2024.01* - *2024.06*, Internship at <a href="https://mila.quebec/en/" style="color: #7289da; text-decoration: none;">Mila</a>. Host: <a href="https://yoshuabengio.org/" style="color: #7289da; text-decoration: none;">Yoshua Bengio</a>.
+
+- *2023.06* - *2023.09*, Internship at Apple Cambridge. Host: <a href="http://www.johannsen.com/" style="color: #7289da; text-decoration: none;">Anders Johannsen</a>.
+- *2022.06* - *2022.09*, Remote internship at <a href="https://ml.comp.nus.edu.sg/" style="color: #7289da; text-decoration: none;">NUS</a>. Host: <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>.
+
 
 # 📝 Publications 
 
@@ -178,11 +179,6 @@ Kyubyong Park\* and **Seanie Lee\*** (\*: equal contribution) \\
 - *2018.12* <a href="https://github.com/naver/nlp-challenge" style="color: #7289da; text-decoration: none;">Silver Medal in NLP challenge</a>.
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2022.03 - present*, PhD. in Artificial Intelligence. Korea Advanced Institute of Science and Technology.
-- *2020.03 - 2022.02*, M.S. in Artificial Intelligence. Korea Advanced Institute of Science and Technology.
-- *2011.03 - 2018.02*, B.A. in Library and Information Science. Yonsei University.
-<!-- - *2008.03 - 2011.02*, Hanyoung Foreign Language High School. -->
 
 
 
@@ -192,8 +188,19 @@ Kyubyong Park\* and **Seanie Lee\*** (\*: equal contribution) \\
 - *2021.12*, Tech. Talk, NAVER corp. Present ACL 2020 paper. 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2024.01* - *2024.06*, Internship at <a href="https://mila.quebec/en/" style="color: #7289da; text-decoration: none;">Mila</a>. Host: <a href="https://yoshuabengio.org/" style="color: #7289da; text-decoration: none;">Yoshua Bengio</a>.
 
-- *2023.06* - *2023.09*, Internship at Apple Cambridge. Host: <a href="http://www.johannsen.com/" style="color: #7289da; text-decoration: none;">Anders Johannsen</a>.
-- *2022.06* - *2022.09*, Remote internship at <a href="https://ml.comp.nus.edu.sg/" style="color: #7289da; text-decoration: none;">NUS</a>. Host: <a href="https://ml.comp.nus.edu.sg/kawaguchi" style="color: #7289da; text-decoration: none;">Kenji Kawaguchi</a>.
+
+
+# 🔥 News
+- *2024.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024.
+- *2024.03*: &nbsp;🎉🎉 One paper accepted to NAACL 2024.
+- *2024.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2024.
+- *2023.09*: &nbsp;🎉🎉 I got an internship offer from <a href="https://mila.quebec/en/" style="color: #7289da; text-decoration: none;" >Mila</a>, supervised by <a href="https://yoshuabengio.org/" style="color: #7289da; text-decoration: none;">Yoshua Bengio</a>.
+- *2023.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2023.
+- *2023.04*: &nbsp;🎉🎉 Two papers accepted to ICML 2023.
+- *2023.03*: &nbsp;🎉🎉 Selected as a 2023 recipient of the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2023" style="color: #7289da; text-decoration: none;">Apple Scholars in AI ML PhD fellowship</a>.
+- *2023.01*: &nbsp;🎉🎉 Two papers accepted to ICLR 2023.
+- *2022.10*: &nbsp;✈️✈️ **Google Travel Grant** for NeurIPS 2022 from Google.
+- *2022.09*: &nbsp;🎉🎉 Two papers accepted to NeurIPS 2022. 
+- *2022.05*: &nbsp;🎉🎉 One paper accepted to ICML 2022. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
