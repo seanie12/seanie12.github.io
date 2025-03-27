@@ -50,6 +50,11 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 Sangwoo Park, **Seanie Lee**, Byungjoo Kim and Sung Ju Hwang \\
 <span style="color:purple">**Arxiv**</span> 2025
 
+- <font size="4">Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training</font>
+[[paper]](https://arxiv.org/abs/2503.18929) \\
+Brian R. Bartoldson, Siddarth Venkatraman, James Diffenderfer, Moksh Jain, Tal Ben-Nun, **Seanie Lee**, Minsu Kim, Johan Obando-Ceron, Yoshua Bengio, Bhavya Kailkhura \\
+<span style="color:purple">**Arxiv**</span> 2025
+
 
 
 - <font size="4">HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models</font>
