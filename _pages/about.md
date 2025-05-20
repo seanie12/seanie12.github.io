@@ -45,9 +45,9 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 <span style="color:purple">**ACL Findings**</span> 2025
 
 
-- <font size="4">FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates</font>
-[[paper]](https://arxiv.org/abs/2503.07216) \\
-Sangwoo Park, **Seanie Lee**, Byungjoo Kim and Sung Ju Hwang \\
+- <font size="4">FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA</font>
+[[paper]](https://arxiv.org/abs/2505.12805) \\
+**Seanie Lee\***, Sangwoo Park\*, Dong Bok Lee\*, Dominik Wagner, Haebin Seong, Tobias Bocklet, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:purple">**Arxiv**</span> 2025
 
 - <font size="4">Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training</font>
