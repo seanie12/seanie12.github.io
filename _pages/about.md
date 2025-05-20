@@ -44,6 +44,11 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 **Seanie Lee\***, Dong Bok Lee\*, Dominik Wagner, Minki Kang, Haebin Seong, Tobias Bocklet, Juho Lee and Sung Ju Hwang (\*: equal contribution)  \\
 <span style="color:purple">**ACL Findings**</span> 2025
 
+- <font size="4">Personalized Fine-Tuning with Controllable Synthetic Speech from LLM-Generated Transcripts for Dysarthric Speech Recognition</font>
+[[paper]](https://arxiv.org/) \\
+Dominik Wagner, Ilja Baumann, Natalie Engert, **Seanie Lee**, Elmar Nöth, Korbinian Riedhammer and Tobias Bocklet \\
+<span style="color:purple">**Interspeech**</span> 2025
+
 
 - <font size="4">FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA</font>
 [[paper]](https://arxiv.org/abs/2505.12805) \\
