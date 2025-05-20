@@ -45,7 +45,7 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 <span style="color:purple">**ACL Findings**</span> 2025
 
 - <font size="4">Personalized Fine-Tuning with Controllable Synthetic Speech from LLM-Generated Transcripts for Dysarthric Speech Recognition</font>
-[[paper]](https://arxiv.org/) \\
+[[paper]](https://arxiv.org/abs/2505.12991) \\
 Dominik Wagner, Ilja Baumann, Natalie Engert, **Seanie Lee**, Elmar Nöth, Korbinian Riedhammer and Tobias Bocklet \\
 <span style="color:purple">**Interspeech**</span> 2025
 
