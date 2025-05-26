@@ -55,6 +55,12 @@ Dominik Wagner, Ilja Baumann, Natalie Engert, **Seanie Lee**, Elmar Nöth, Korbi
 **Seanie Lee\***, Sangwoo Park\*, Dong Bok Lee\*, Dominik Wagner, Haebin Seong, Tobias Bocklet, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:purple">**Arxiv**</span> 2025
 
+
+- <font size="4">Distilling LLM Agent into Small Models with Retrieval and Code Tools</font>
+[[paper]](https://www.arxiv.org/abs/2505.17612) \\
+Minki Kang, Jongwon Jeong, Seanie Lee, Jaewoong Cho and Sung Ju Hwang \\
+<span style="color:purple">**Arxiv**</span> 2025
+
 - <font size="4">Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training</font>
 [[paper]](https://arxiv.org/abs/2503.18929) \\
 Brian R. Bartoldson, Siddarth Venkatraman, James Diffenderfer, Moksh Jain, Tal Ben-Nun, **Seanie Lee**, Minsu Kim, Johan Obando-Ceron, Yoshua Bengio, Bhavya Kailkhura \\
