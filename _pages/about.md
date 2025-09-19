@@ -53,7 +53,7 @@ Minki Kang, Jongwon Jeong, Seanie Lee, Jaewoong Cho and Sung Ju Hwang \\
 - <font size="4">Reliable Decision‑Making via Calibration‑Oriented Retrieval‑Augmented Generation</font>
 [[paper]](https://arxiv.org/abs/2411.08891) \\
 Chaeyun Jang, Deukhwan Cho,  **Seanie Lee**, Juho Lee and Hyungi Lee \\
-<span style="color:purple">**NeurIPS**</span> 2024
+<span style="color:purple">**NeurIPS**</span> 2025
 
 - <font size="4">Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training</font>
 [[paper]](https://arxiv.org/abs/2503.18929) \\
