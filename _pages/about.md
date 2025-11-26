@@ -47,7 +47,7 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 
 - <font size="4">Distilling LLM Agent into Small Models with Retrieval and Code Tools</font>
 [[paper]](https://www.arxiv.org/abs/2505.17612) \\
-Minki Kang, Jongwon Jeong, Seanie Lee, Jaewoong Cho and Sung Ju Hwang \\
+Minki Kang, Jongwon Jeong, **Seanie Lee**, Jaewoong Cho and Sung Ju Hwang \\
 <span style="color:purple">**NeurIPS Spotlight**</span> 2025
 
 - <font size="4">Reliable Decision‑Making via Calibration‑Oriented Retrieval‑Augmented Generation</font>
