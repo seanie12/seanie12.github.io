@@ -39,6 +39,12 @@ During my PhD study, I interned at Mila in 2024, where I had the opportunity to 
 
 # 📝 Publications 
 
+
+- <font size="4">THINKSAFE: Self-Generated Safety Alignment for Reasoning Models</font>
+[[paper]](https://arxiv.org/abs/2601.23143) \\
+**Seanie Lee\***, Sangwoo Park\*,  Yumin Choi, Gyeongman Kim, Minki Kang, Jihun Yun, Dongmin Park, Jongho Park and Sung Ju Hwang (\*: equal contribution) \\
+<span style="color:purple">**Arxiv**</span> 2026
+
 - <font size="4">FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA</font>
 [[paper]](https://arxiv.org/abs/2505.12805) \\
 **Seanie Lee\***, Sangwoo Park\*, Dong Bok Lee\*, Dominik Wagner, Haebin Seong, Tobias Bocklet, Juho Lee and Sung Ju Hwang (\*: equal contribution) \\
