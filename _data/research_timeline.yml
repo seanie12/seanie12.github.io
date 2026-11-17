@@ -25,7 +25,7 @@
       logo: apple.svg
       dates: "2023"
       description: Apple Scholars in AI/ML PhD Fellowship
-      bio_url: https://machinelearning.apple.com/updates/apple-scholars-aiml-2023#:~:text=Seanie%20Lee
+      url: https://machinelearning.apple.com/updates/apple-scholars-aiml-2023#:~:text=Seanie%20Lee
     - name: Google
       logo: google.svg
       dates: "2022"
