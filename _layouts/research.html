@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ site.description | escape }}">
-  <meta name="theme-color" content="#fbfaf8">
+  <meta name="theme-color" content="#ffffff">
   {% include seo.html %}
   <link rel="icon" href="{{ '/images/favicon-32x32.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url }}">
@@ -24,10 +24,27 @@
   <main class="shell" id="main">
     {{ content }}
   </main>
-  <footer class="shell footer">
-    <span>{{ site.author.name }} · {{ site.author.location }}</span>
-    <a href="mailto:{{ site.author.email }}">Email</a>
-    <a href="#top">Back to top ↑</a>
+  <footer class="footer">
+    <div class="shell">
+      <div class="footer-main">
+        <a class="wordmark" href="#top"><span aria-hidden="true">SL</span> Seanie Lee</a>
+        <nav class="footer-nav" aria-labelledby="footer-site-title">
+          <h2 id="footer-site-title">Explore</h2>
+          <a href="#about-me">About</a>
+          <a href="#-work-experience">Experience</a>
+          <a href="#-publications">Publications</a>
+          <a href="#-educations">Education</a>
+        </nav>
+        <nav class="footer-nav footer-links" aria-labelledby="footer-links-title">
+          <h2 id="footer-links-title">Links</h2>
+          {% include research-links.html %}
+        </nav>
+      </div>
+      <div class="footer-bottom">
+        <span>© {{ site.time | date: "%Y" }} Seanie Lee</span>
+        <a href="#top">Back to top ↑</a>
+      </div>
+    </div>
   </footer>
   {% if site.google_analytics_id %}{% include analytics.html %}{% endif %}
 </body>

@@ -1,4 +1,6 @@
-- name: Apple Machine Learning Research
+- name: Apple
+  logo: apple.svg
+  team: Machine Learning Research
   dates: Oct 2025 – Sep 2026
   role: Research Intern
   location: Seattle
@@ -7,15 +9,17 @@
     - label: Host
       name: Raviteja Vemulapalli
       url: https://ravitejav.weebly.com/
-- name: Krafton
+- name: KRAFTON
+  logo: krafton.png
   dates: Jul 2025 – Oct 2025
   role: Research Intern
   location: Seoul
 - name: Mila
+  logo: mila.png
   url: https://mila.quebec/en/
   dates: Jan 2024 – Jun 2024
   role: Research Intern
-  location: Montreal
+  location: Montréal
   people:
     - label: Advisor
       name: Yoshua Bengio
@@ -29,7 +33,8 @@
     - label: Collaborator
       name: Esmeralda S. Whitammer
       url: https://whitammer.github.io/
-- name: Apple Cambridge
+- name: Apple
+  logo: apple.svg
   dates: May 2023 – Sep 2023
   role: Research Intern
   location: Cambridge
@@ -41,10 +46,12 @@
       name: Jianpeng Cheng
       url: https://scholar.google.com/citations?user=51FYPYsAAAAJ
 - name: National University of Singapore
+  logo: nus.png
   url: https://ml.comp.nus.edu.sg/
   dates: Jul 2022 – Sep 2022
   role: Research Intern
-  location: Remote
+  location: Singapore
+  work_mode: Remote
   people:
     - label: Advisor
       name: Kenji Kawaguchi

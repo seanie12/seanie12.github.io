@@ -4,12 +4,17 @@
     {% for entry in site.data.research_experience %}
     <details name="research-experience">
       <summary>
+        {% assign logo = '/assets/icons/' | append: entry.logo %}
+        <span class="experience-logo"><img src="{{ logo | relative_url }}" alt="" width="34" height="34"></span>
         <span class="experience-name">{{ entry.name }}</span>
-        <span class="experience-date">{{ entry.dates }}</span>
+        <span class="experience-meta">
+          <span class="experience-city">{{ entry.location }}</span>
+          <span class="experience-date">{{ entry.dates }}</span>
+        </span>
         <svg class="chevron" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="m5 8 5 5 5-5" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </summary>
       <div class="experience-body">
-        <p><strong>{{ entry.role }}</strong> · {{ entry.location }}</p>
+        <p><strong>{{ entry.role }}</strong>{% if entry.team %} · {{ entry.team }}{% endif %}{% if entry.work_mode %} · {{ entry.work_mode }}{% endif %}</p>
         {% if entry.description %}<p>{{ entry.description }}</p>{% endif %}
         {% for person in entry.people %}
         <p>{{ person.label }}: <a href="{{ person.url }}">{{ person.name }}</a></p>

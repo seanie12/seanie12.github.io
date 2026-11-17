@@ -1,0 +1,13 @@
+{% assign cv = '/assets/cv.pdf' | relative_url %}
+{% assign github = 'https://github.com/' | append: site.author.github %}
+{% assign email = 'mailto:' | append: site.author.email %}
+{% assign urls = cv | append: '|' | append: site.author.googlescholar | append: '|' | append: github | append: '|' | append: site.author.uri | append: '|' | append: email | split: '|' %}
+{% assign labels = 'CV|Google Scholar|GitHub|Blog|Email' | split: '|' %}
+{% assign icons = 'cv|googlescholar|github|blog|email' | split: '|' %}
+{% for label in labels %}
+  {% assign icon = '/assets/icons/' | append: icons[forloop.index0] | append: '.svg' %}
+  <a href="{{ urls[forloop.index0] }}" aria-label="{{ label }}">
+    <img src="{{ icon | relative_url }}" width="20" height="20" alt="">
+    <span>{{ label }}</span>
+  </a>
+{% endfor %}
