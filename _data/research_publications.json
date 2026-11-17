@@ -1,7 +1,7 @@
 [
   {
-    "year": 2026,
-    "venue": "arXiv",
+    "year": 2027,
+    "venue": "EACL",
     "title": "Simulate to Generalize: Scaling Stateful Supervision for API-calling Agents using LLM World Models",
     "links": [
       {
