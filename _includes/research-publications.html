@@ -1,0 +1,28 @@
+{% assign papers = site.data.research_publications | sort: 'year' | reverse %}
+{% assign years = papers | map: 'year' | uniq %}
+{% assign recent_years = years | slice: 0, 3 %}
+<section class="section" id="-publications" aria-labelledby="publications-title">
+  <h2 id="publications-title">Publications</h2>
+  <ol class="paper-list" role="list">
+    {% for year in recent_years %}
+      {% assign year_papers = site.data.research_publications | where: 'year', year %}
+      {% for paper in year_papers %}{% include research-publication.html %}{% endfor %}
+    {% endfor %}
+  </ol>
+  {% if years.size > 3 %}
+  {% assign older_years = years | slice: 3, years.size %}
+  <details class="older-publications">
+    <summary>
+      <span class="more-label">+ MORE</span>
+      <span class="less-label">− LESS</span>
+      <span class="visually-hidden">Publications from {{ older_years.last }} to {{ older_years.first }}</span>
+    </summary>
+    <ol class="paper-list" role="list">
+      {% for year in older_years %}
+        {% assign year_papers = site.data.research_publications | where: 'year', year %}
+        {% for paper in year_papers %}{% include research-publication.html %}{% endfor %}
+      {% endfor %}
+    </ol>
+  </details>
+  {% endif %}
+</section>
