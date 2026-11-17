@@ -1,10 +1,15 @@
 <li class="paper">
-  <p class="paper-venue">{{ paper.venue | escape }} · {{ paper.year }}</p>
-  <h3>{{ paper.title | escape }}</h3>
-  <div class="paper-authors">{{ paper.authors | markdownify }}</div>
-  <div class="paper-links">
-    {% for link in paper.links %}
-    <a href="{{ link.url | escape }}">{{ link.label }}</a>
-    {% endfor %}
+  <div class="paper-meta">
+    <p class="paper-topic">{{ paper.topic | escape }}</p>
+    <p class="paper-date">{{ paper.venue | escape }} · {{ paper.year }}</p>
+  </div>
+  <div>
+    <h3>{{ paper.title | escape }}</h3>
+    <p class="paper-summary">{{ paper.summary | escape }}</p>
+    <div class="paper-links">
+      {% for link in paper.links %}
+      <a href="{{ link.url | escape }}">{{ link.label }}</a>
+      {% endfor %}
+    </div>
   </div>
 </li>

@@ -6,12 +6,32 @@
       {% assign logo = '/assets/icons/' | append: entry.logo %}
       <span class="organization-logo"><img src="{{ logo | relative_url }}" alt="" width="34" height="34"></span>
       <div class="timeline-copy">
-        <h3 class="organization-name">{% if entry.organization_url %}<a href="{{ entry.organization_url }}">{{ entry.name }}</a>{% else %}{{ entry.name }}{% endif %}</h3>
-        <p>{% if entry.url %}<a href="{{ entry.url | escape }}">{{ entry.description }}</a>{% else %}{{ entry.description }}{% endif %}</p>
+        <h3 class="organization-name">{{ entry.name }}</h3>
+        <p>{% if entry.bio_url %}<a href="{{ entry.bio_url | escape }}" id="apple-scholar-link">{{ entry.description }}</a>{% elsif entry.url %}<a href="{{ entry.url | escape }}">{{ entry.description }}</a>{% else %}{{ entry.description }}{% endif %}</p>
+        {% if entry.advisors %}
+        <p class="timeline-note">Advisors: {% for advisor in entry.advisors %}{% unless forloop.first %} and {% endunless %}<a href="{{ advisor.url }}">{{ advisor.name }}</a>{% endfor %}</p>
+        {% endif %}
         {% if entry.note %}<p class="timeline-note">{{ entry.note }}</p>{% endif %}
       </div>
       <span class="row-date">{{ entry.dates }}</span>
     </li>
     {% endfor %}
   </ul>
+  {% if timeline.id == 'honors-and-awards' %}
+  <dialog class="scholar-dialog" id="apple-scholar-bio" aria-labelledby="apple-scholar-title">
+    <h3 id="apple-scholar-title">Seanie Lee</h3>
+    <p>2023 Apple Scholar in AI/ML · Data-Centric AI</p>
+    <p>At the time of the fellowship, Seanie was pursuing a PhD at KAIST and researching data augmentation and regularization for more data-efficient fine-tuning.</p>
+    <p><a href="{{ timeline.entries[0].bio_url | escape }}">Read the original bio on Apple’s website</a></p>
+    <form method="dialog"><button>Close</button></form>
+  </dialog>
+  <script>
+    const scholarBio = document.getElementById('apple-scholar-bio');
+    document.getElementById('apple-scholar-link').addEventListener('click', (event) => {
+      if (typeof scholarBio.showModal !== 'function' || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      event.preventDefault();
+      scholarBio.showModal();
+    });
+  </script>
+  {% endif %}
 </section>

@@ -4,7 +4,10 @@
   dates: Oct 2025 – Sep 2026
   role: Research Intern
   location: Seattle
-  description: Worked on synthetic data generation for tool-calling language models.
+  description: Developed SimSAT, a synthetic training pipeline that helped tool-calling agents generalize to unseen APIs and user states on AppWorld and OfficeBench.
+  paper:
+    title: Simulate to Generalize
+    url: https://arxiv.org/abs/2607.16900
   people:
     - label: Host
       name: Raviteja Vemulapalli
@@ -14,12 +17,20 @@
   dates: Jul 2025 – Oct 2025
   role: Research Intern
   location: Seoul
+  description: Developed ThinkSafe, which uses self-generated safety data to improve the safety of reasoning models while keeping reasoning performance competitive.
+  paper:
+    title: ThinkSafe
+    url: https://arxiv.org/abs/2601.23143
 - name: Mila
   logo: mila.svg
   url: https://mila.quebec/en/
   dates: Jan 2024 – Jun 2024
   role: Research Intern
   location: Montréal
+  description: Studied whether broader red-team coverage improves LLM safety tuning and found that it helped models withstand attacks outside the training set.
+  paper:
+    title: Learning Diverse Attacks on Large Language Models for Robust Red-Teaming and Safety Tuning
+    url: https://arxiv.org/abs/2405.18540
   people:
     - label: Advisor
       name: Yoshua Bengio
@@ -38,6 +49,10 @@
   dates: May 2023 – Sep 2023
   role: Research Intern
   location: Cambridge
+  description: Built a lightweight conversation retriever for few-shot dialogue state tracking by distilling a model trained on conversation summaries.
+  paper:
+    title: Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries
+    url: https://aclanthology.org/2024.naacl-long.6/
   people:
     - label: Host
       name: Anders Johannsen
@@ -52,6 +67,10 @@
   role: Research Intern
   location: Singapore
   work_mode: Remote
+  description: Used self-distillation to regularize continued transformer pretraining on domain-specific data, improving downstream classification in the evaluated vision and language tasks.
+  paper:
+    title: Self-Distillation for Further Pre-training of Transformers
+    url: https://arxiv.org/abs/2210.02871
   people:
     - label: Advisor
       name: Kenji Kawaguchi

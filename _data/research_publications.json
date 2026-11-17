@@ -3,19 +3,19 @@
     "year": 2026,
     "venue": "arXiv",
     "title": "Simulate to Generalize: Scaling Stateful Supervision for API-calling Agents using LLM World Models",
-    "authors": "**Seanie Lee**, Sanjoy Chowdhury, Chao Jiang, Cheng-Yu Hsieh, Ting-Yao Hu, Alexander T. Toshev, Oncel Tuzel, and Raviteja Vemulapalli",
     "links": [
       {
         "label": "Paper",
         "url": "https://arxiv.org/abs/2607.16900"
       }
-    ]
+    ],
+    "topic": "Agent Training",
+    "summary": "SimSAT uses language models to simulate stateful APIs and generate training trajectories, helping agents generalize to unseen environments on AppWorld and OfficeBench."
   },
   {
     "year": 2026,
     "venue": "NeurIPS",
     "title": "THINKSAFE: Self-Generated Safety Alignment for Reasoning Models",
-    "authors": "**Seanie Lee\\***, Sangwoo Park\\*, Yumin Choi, Gyeongman Kim, Minki Kang, Jihun Yun, Dongmin Park, Jongho Park, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -25,13 +25,14 @@
         "label": "Code",
         "url": "https://github.com/seanie12/ThinkSafe"
       }
-    ]
+    ],
+    "topic": "Safety Alignment",
+    "summary": "ThinkSafe trains reasoning models on their own filtered safety examples, improving safety while keeping reasoning performance competitive."
   },
   {
     "year": 2026,
     "venue": "NeurIPS",
     "title": "It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs",
-    "authors": "Sangwoo Park\\*, Woongyeong Yeo\\*, **Seanie Lee**, Yumin Choi, Hyomin Lee, Kangsan Kim, Jinheon Baek, Seong Joon Oh, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -41,13 +42,14 @@
         "label": "Code",
         "url": "https://github.com/sw-programmer/SelfCI"
       }
-    ]
+    ],
+    "topic": "Contextual Privacy",
+    "summary": "SelfCI improves context-appropriate disclosure by training models to retain information needed for the task and withhold information inappropriate to share."
   },
   {
     "year": 2026,
     "venue": "EMNLP",
     "title": "T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search",
-    "authors": "Hyomin Lee, Sangwoo Park, Yumin Choi, Sohyun An, **Seanie Lee**, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -57,13 +59,14 @@
         "label": "Code",
         "url": "https://github.com/pwnhyo/T-MAP"
       }
-    ]
+    ],
+    "topic": "Agent Safety",
+    "summary": "T-MAP evaluates safety at the level of tool execution and finds failures that text-only evaluations can miss."
   },
   {
     "year": 2026,
     "venue": "TMLR",
     "title": "Rethinking Reward Models for Multi-Domain Test-Time Scaling",
-    "authors": "Dong Bok Lee\\*, **Seanie Lee\\***, Sangwoo Park, Minki Kang, Jinheon Baek, Dongki Kim, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, and Lei Song",
     "links": [
       {
         "label": "Paper",
@@ -73,13 +76,14 @@
         "label": "Code",
         "url": "https://github.com/db-Lee/Multi-RM"
       }
-    ]
+    ],
+    "topic": "Reasoning Verification",
+    "summary": "A comparison across 14 domains finds that generative outcome verifiers deliver the most consistent gains among four reward-model variants."
   },
   {
     "year": 2025,
     "venue": "CVPR Findings",
     "title": "HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model",
-    "authors": "Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, **Seanie Lee**, Yong-Ju Lee, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -89,13 +93,14 @@
         "label": "Code",
         "url": "https://youngwanlee.github.io/holisafe/"
       }
-    ]
+    ],
+    "topic": "Multimodal Safety",
+    "summary": "HoliSafe benchmarks safety across combinations of images and text and adds a visual guard that helps vision-language models identify harmful images."
   },
   {
     "year": 2025,
     "venue": "NeurIPS",
     "title": "FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA",
-    "authors": "**Seanie Lee\\***, Sangwoo Park\\*, Dong Bok Lee\\*, Dominik Wagner, Haebin Seong, Tobias Bocklet, Juho Lee, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -105,13 +110,14 @@
         "label": "Code",
         "url": "https://github.com/seanie12/fed-svd"
       }
-    ]
+    ],
+    "topic": "Federated Learning",
+    "summary": "FedSVD reduces noise amplification in differentially private federated LoRA by refactoring aggregated updates into an adaptive orthogonal basis."
   },
   {
     "year": 2025,
     "venue": "NeurIPS  Spotlight",
     "title": "Distilling LLM Agent into Small Models with Retrieval and Code Tools",
-    "authors": "Minki Kang, Jongwon Jeong, **Seanie Lee**, Jaewoong Cho, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -121,13 +127,14 @@
         "label": "Code",
         "url": "https://github.com/Nardien/agent-distillation"
       }
-    ]
+    ],
+    "topic": "Agent Distillation",
+    "summary": "Agent Distillation transfers tool use as well as reasoning from large teachers, making smaller agents competitive with larger models on factual and mathematical tasks."
   },
   {
     "year": 2025,
     "venue": "NeurIPS",
     "title": "Reliable Decision-Making via Calibration-Oriented Retrieval-Augmented Generation",
-    "authors": "Chaeyun Jang, Deukhwan Cho, **Seanie Lee**, Hyungi Lee, and Juho Lee",
     "links": [
       {
         "label": "Paper",
@@ -137,13 +144,14 @@
         "label": "Code",
         "url": "https://github.com/chaeyoon-jang/calibrag"
       }
-    ]
+    ],
+    "topic": "Retrieval & Calibration",
+    "summary": "CalibRAG retrieves documents to improve the calibration of decisions informed by language models and improves accuracy across the evaluated datasets."
   },
   {
     "year": 2025,
     "venue": "NeurIPS",
     "title": "Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training",
-    "authors": "Brian R. Bartoldson, Siddarth Venkatraman, James Diffenderfer, Moksh Jain, Tal Ben-Nun, **Seanie Lee**, Minsu Kim, Johan Obando-Ceron, Yoshua Bengio, and Bhavya Kailkhura",
     "links": [
       {
         "label": "Paper",
@@ -153,13 +161,14 @@
         "label": "Code",
         "url": "https://github.com/bbartoldson/TBA"
       }
-    ]
+    ],
+    "topic": "LLM Post-Training",
+    "summary": "Trajectory Balance with Asynchrony learns from asynchronously collected experience to speed up language-model post-training while retaining strong task performance."
   },
   {
     "year": 2025,
     "venue": "ACL Findings",
     "title": "SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models",
-    "authors": "**Seanie Lee\\***, Dong Bok Lee\\*, Dominik Wagner, Minki Kang, Haebin Seong, Tobias Bocklet, Juho Lee, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -169,25 +178,27 @@
         "label": "Code",
         "url": "https://github.com/seanie12/safe-route"
       }
-    ]
+    ],
+    "topic": "Safety Guardrails",
+    "summary": "SafeRoute reduces moderation cost by sending difficult inputs to a larger safety model and handling easier inputs with a smaller one."
   },
   {
     "year": 2025,
     "venue": "Interspeech",
     "title": "Personalized Fine-Tuning with Controllable Synthetic Speech from LLM-Generated Transcripts for Dysarthric Speech Recognition",
-    "authors": "Dominik Wagner, Ilja Baumann, Natalie Engert, **Seanie Lee**, Elmar Nöth, Korbinian Riedhammer, and Tobias Bocklet",
     "links": [
       {
         "label": "Paper",
         "url": "https://arxiv.org/abs/2505.12991"
       }
-    ]
+    ],
+    "topic": "Speech Accessibility",
+    "summary": "Personalized adaptation and synthetic dysarthric speech improve speech recognition for speakers with dysarthria."
   },
   {
     "year": 2025,
     "venue": "ICLR",
     "title": "HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models",
-    "authors": "**Seanie Lee\\***, Haebin Seong\\*, Dong Bok Lee, Minki Kang, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -197,13 +208,14 @@
         "label": "Code",
         "url": "https://github.com/hbseong97/HarmAug"
       }
-    ]
+    ],
+    "topic": "Safety Guardrails",
+    "summary": "HarmAug uses synthetic training data to help compact safety guard models detect a broader range of harmful inputs."
   },
   {
     "year": 2025,
     "venue": "ICLR",
     "title": "Learning Diverse Attacks on Large Language Models for Robust Red-teaming and Safety Tuning",
-    "authors": "**Seanie Lee**, Minsu Kim, Lynn Cherif, David Dobre, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi, Gauthier Gidel, Yoshua Bengio, Nikolay Malkin, and Moksh Jain",
     "links": [
       {
         "label": "Paper",
@@ -213,13 +225,14 @@
         "label": "Code",
         "url": "https://github.com/GFNOrg/red-teaming"
       }
-    ]
+    ],
+    "topic": "LLM Safety Evaluation",
+    "summary": "The study finds that broader red-team coverage can improve the robustness of safety tuning against attacks outside the training set."
   },
   {
     "year": 2024,
     "venue": "EMNLP",
     "title": "Optimized Speculative Sampling for GPU Hardware Accelerators",
-    "authors": "Dominik Wagner, **Seanie Lee**, Ilja Baumann, Philipp Seeberger, Korbinian Riedhammer, and Tobias Bocklet",
     "links": [
       {
         "label": "Paper",
@@ -229,13 +242,14 @@
         "label": "Code",
         "url": "https://github.com/dwgnr/optimized-speculative-sampling"
       }
-    ]
+    ],
+    "topic": "Efficient Inference",
+    "summary": "Parallelizing speculative sampling on GPUs reduces runtime without changing output accuracy, and an additional approximation trades a small accuracy loss for more speed."
   },
   {
     "year": 2024,
     "venue": "ICML",
     "title": "Drug Discovery with Dynamic Goal-aware Fragment",
-    "authors": "Seul Lee, **Seanie Lee**, Kenji Kawaguchi, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -245,25 +259,27 @@
         "label": "Code",
         "url": "https://github.com/SeulLee05/GEAM"
       }
-    ]
+    ],
+    "topic": "Molecular Design",
+    "summary": "GEAM learns and updates a vocabulary of molecular fragments relevant to target properties, improving results on the paper’s molecule-design benchmarks."
   },
   {
     "year": 2024,
     "venue": "NAACL",
     "title": "Effective and Efficient Conversation Retrieval for Dialogue State Tracking with Implicit Text Summaries",
-    "authors": "**Seanie Lee**, Jianpeng Cheng, Joris Driesen, Alexandru Coca, and Anders Johannsen",
     "links": [
       {
         "label": "Paper",
         "url": "https://aclanthology.org/2024.naacl-long.6/"
       }
-    ]
+    ],
+    "topic": "Dialogue Systems",
+    "summary": "A lightweight retriever distilled from conversation summaries improves few-shot dialogue state tracking without generating summaries at inference time."
   },
   {
     "year": 2024,
     "venue": "ICLR",
     "title": "Self-Supervised Dataset Distillation for Transfer Learning",
-    "authors": "Dong Bok Lee\\*, **Seanie Lee\\***, Joonho Ko, Kenji Kawaguchi, Juho Lee, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -273,13 +289,14 @@
         "label": "Code",
         "url": "https://github.com/db-Lee/selfsup_dd"
       }
-    ]
+    ],
+    "topic": "Dataset Distillation",
+    "summary": "A small synthetic dataset transfers representations from a self-supervised model trained on full unlabeled data, reducing the cost of adapting to new tasks."
   },
   {
     "year": 2024,
     "venue": "ICLR",
     "title": "DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models",
-    "authors": "Sohyun Ahn\\*, Hayeon Lee\\*, Jaehyeong Jo, **Seanie Lee**, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -289,13 +306,14 @@
         "label": "Code",
         "url": "https://github.com/CownowAn/DiffusionNAG"
       }
-    ]
+    ],
+    "topic": "Neural Architecture Search",
+    "summary": "DiffusionNAG generates neural architectures as graphs and uses task-specific predictors to steer sampling toward promising designs."
   },
   {
     "year": 2023,
     "venue": "NeurIPS",
     "title": "Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks",
-    "authors": "Minki Kang, **Seanie Lee**, Jinheon Baek, Kenji Kawaguchi, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -305,13 +323,14 @@
         "label": "Code",
         "url": "https://github.com/Nardien/KARD"
       }
-    ]
+    ],
+    "topic": "Retrieval & Reasoning",
+    "summary": "KARD distills reasoning supported by retrieved evidence into small language models, improving performance on knowledge-intensive tasks."
   },
   {
     "year": 2023,
     "venue": "ICML",
     "title": "Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation",
-    "authors": "Jeffrey Willette\\*, **Seanie Lee\\***, Bruno Andreis, Kenji Kawaguchi, Juho Lee, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -321,37 +340,40 @@
         "label": "Code",
         "url": "https://github.com/jeffwillette/umbc/"
       }
-    ]
+    ],
+    "topic": "Set Learning",
+    "summary": "Universal mini-batch consistency lets models process a large set in chunks while estimating the full-set training gradient without bias and with constant memory overhead."
   },
   {
     "year": 2023,
     "venue": "ICML",
     "title": "Margin-based Neural Network Watermarking",
-    "authors": "Byungjoo Kim, Suyoung Lee, **Seanie Lee**, Sooel Son, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
         "url": "https://proceedings.mlr.press/v202/kim23o.html"
       }
-    ]
+    ],
+    "topic": "Model Watermarking",
+    "summary": "Margin-based watermarking strengthens ownership verification for neural networks against attempts to replicate their functionality."
   },
   {
     "year": 2023,
     "venue": "ICLR",
     "title": "Self-Supervised Set Representation Learning for Unsupervised Meta-Learning",
-    "authors": "Dong Bok Lee\\*, **Seanie Lee\\***, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
         "url": "https://openreview.net/forum?id=kIAx30hYi_p"
       }
-    ]
+    ],
+    "topic": "Representation Learning",
+    "summary": "Set-SimCLR learns representations of sets from unlabeled images and improves few-shot classification over instance-level self-supervision and unsupervised meta-learning baselines."
   },
   {
     "year": 2023,
     "venue": "ICLR",
     "title": "Self-Distillation for Further Pre-training of Transformers",
-    "authors": "**Seanie Lee**, Minki Kang, Juho Lee, Sung Ju Hwang, and Kenji Kawaguchi",
     "links": [
       {
         "label": "Paper",
@@ -361,61 +383,66 @@
         "label": "Code",
         "url": "https://github.com/seanie12/self-distillation"
       }
-    ]
+    ],
+    "topic": "Continued Pretraining",
+    "summary": "Self-distillation regularizes continued transformer pretraining on domain data and improves downstream performance in the studied vision and language tasks."
   },
   {
     "year": 2022,
     "venue": "NeurIPS",
     "title": "Set-based Meta-Interpolation for Few-Task Meta-Learning",
-    "authors": "**Seanie Lee\\***, Bruno Andreis\\*, Kenji Kawaguchi, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
         "url": "https://arxiv.org/abs/2205.09990"
       }
-    ]
+    ],
+    "topic": "Meta-Learning",
+    "summary": "Meta-Interpolation uses neural set functions to generate additional training tasks and improve adaptation when few source tasks are available."
   },
   {
     "year": 2022,
     "venue": "NeurIPS",
     "title": "On Divergence Measures for Bayesian Pseudocoresets",
-    "authors": "Balhae Kim, Jungwon Choi, **Seanie Lee**, Yoonho Lee, Jung-Woo Ha, and Juho Lee",
     "links": [
       {
         "label": "Paper",
         "url": "https://arxiv.org/abs/2210.06205"
       }
-    ]
+    ],
+    "topic": "Bayesian Inference",
+    "summary": "The paper connects dataset distillation to Bayesian pseudocoresets through reverse KL and Wasserstein objectives and unifies the two views."
   },
   {
     "year": 2022,
     "venue": "ICML",
     "title": "Set Based Stochastic Subsampling",
-    "authors": "Bruno Andreis, **Seanie Lee**, A. Tuan Nguyen, Juho Lee, Eunho Yang, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
         "url": "https://proceedings.mlr.press/v162/andreis22a.html"
       }
-    ]
+    ],
+    "topic": "Set Learning",
+    "summary": "A two-stage subsampler combines coarse global context with sequential refinement to retain the input elements most useful for a downstream task."
   },
   {
     "year": 2022,
     "venue": "ICLR",
     "title": "Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning",
-    "authors": "**Seanie Lee\\***, Hae Beom Lee\\*, Juho Lee, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
         "url": "https://openreview.net/forum?id=ivQruZvXxtz"
       }
-    ]
+    ],
+    "topic": "Multilingual Learning",
+    "summary": "Sequential Reptile aligns gradients across language tasks during meta-training to improve multilingual transfer."
   },
   {
     "year": 2021,
     "venue": "ACL",
     "title": "Learning to Perturb Word Embeddings for Out-of-distribution QA",
-    "authors": "**Seanie Lee\\***, Minki Kang\\*, Juho Lee, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -425,13 +452,14 @@
         "label": "Code",
         "url": "https://github.com/seanie12/SWEP"
       }
-    ]
+    ],
+    "topic": "Question Answering",
+    "summary": "Learning to perturb question and context embeddings improves question-answering performance on unseen domains."
   },
   {
     "year": 2021,
     "venue": "ICLR",
     "title": "Contrastive Learning with Adversarial Perturbations for Conditional Text Generation",
-    "authors": "**Seanie Lee\\***, Dong Bok Lee\\*, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -441,13 +469,14 @@
         "label": "Code",
         "url": "https://github.com/seanie12/CLAPS"
       }
-    ]
+    ],
+    "topic": "Text Generation",
+    "summary": "Contrastive training on positive and negative perturbations improves conditional text generation by teaching models to distinguish preserving edits from misleading ones."
   },
   {
     "year": 2021,
     "venue": "ICLR",
     "title": "Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning",
-    "authors": "Dong Bok Lee, Dongchan Min, **Seanie Lee**, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -457,13 +486,14 @@
         "label": "Code",
         "url": "https://github.com/db-Lee/Meta-GMVAE"
       }
-    ]
+    ],
+    "topic": "Meta-Learning",
+    "summary": "Meta-GMVAE learns from unlabeled examples with a Gaussian-mixture latent space and uses that structure to adapt to new few-shot classification tasks."
   },
   {
     "year": 2020,
     "venue": "ACL",
     "title": "Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs",
-    "authors": "Dong Bok Lee\\*, **Seanie Lee\\***, WooTae Jeong, Donghwan Kim, and Sung Ju Hwang",
     "links": [
       {
         "label": "Paper",
@@ -477,13 +507,14 @@
         "label": "Video",
         "url": "https://slideslive.com/38928851/generating-diverse-and-consistent-qa-pairs-from-contexts-with-informationmaximizing-hierarchical-conditional-vaes"
       }
-    ]
+    ],
+    "topic": "Question Answering",
+    "summary": "A hierarchical generative model produces diverse question–answer pairs from unlabeled text while encouraging the questions and answers to remain consistent."
   },
   {
     "year": 2020,
     "venue": "Interspeech",
     "title": "g2pM: A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset",
-    "authors": "Kyubyong Park\\* and **Seanie Lee\\***",
     "links": [
       {
         "label": "Paper",
@@ -493,6 +524,8 @@
         "label": "Code",
         "url": "https://github.com/kakaobrain/g2pM"
       }
-    ]
+    ],
+    "topic": "Speech Processing",
+    "summary": "g2pM introduces an open benchmark of more than 99,000 sentences and a neural model for disambiguating Mandarin characters with multiple pronunciations."
   }
 ]

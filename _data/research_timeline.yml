@@ -5,7 +5,11 @@
       logo: kaist.png
       dates: 2022–2026
       description: PhD in Artificial Intelligence
-      note: "Advisors: Sung Ju Hwang and Juho Lee"
+      advisors:
+        - name: Sung Ju Hwang
+          url: http://www.sungjuhwang.com/
+        - name: Juho Lee
+          url: https://juho-lee.github.io/
     - name: KAIST
       logo: kaist.png
       dates: 2020–2022
@@ -21,7 +25,7 @@
       logo: apple.svg
       dates: "2023"
       description: Apple Scholars in AI/ML PhD Fellowship
-      url: https://machinelearning.apple.com/updates/apple-scholars-aiml-2023
+      bio_url: https://machinelearning.apple.com/updates/apple-scholars-aiml-2023#:~:text=Seanie%20Lee
     - name: Google
       logo: google.svg
       dates: "2022"
@@ -49,13 +53,11 @@
       dates: Oct 2023
       description: Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation
       url: https://docs.google.com/presentation/d/1s0M7g0kkl2tfiAEiX51uMoaAY7-EuEXt/edit?usp=sharing&ouid=117903268632818009810&rtpof=true&sd=true
-      organization_url: https://www.th-nuernberg.de/en/
       note: Tech talk
     - name: Samsung SDS
       logo: samsung-sds.png
       dates: May 2023
       description: Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation
-      url: https://docs.google.com/presentation/d/1s0M7g0kkl2tfiAEiX51uMoaAY7-EuEXt/edit?usp=sharing&ouid=117903268632818009810&rtpof=true&sd=true
       note: Tech talk
     - name: NAVER
       logo: naver.svg

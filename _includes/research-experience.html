@@ -16,6 +16,9 @@
       <div class="experience-body">
         <p><strong>{{ entry.role }}</strong>{% if entry.team %} · {{ entry.team }}{% endif %}{% if entry.work_mode %} · {{ entry.work_mode }}{% endif %}</p>
         {% if entry.description %}<p>{{ entry.description }}</p>{% endif %}
+        {% if entry.paper %}
+        <p>Paper: <a href="{{ entry.paper.url }}">{{ entry.paper.title }}</a></p>
+        {% endif %}
         {% for person in entry.people %}
         <p>{{ person.label }}: <a href="{{ person.url }}">{{ person.name }}</a></p>
         {% endfor %}
