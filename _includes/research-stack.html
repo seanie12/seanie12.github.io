@@ -1,0 +1,14 @@
+<section class="stack" aria-labelledby="stack-title">
+  <h2 id="stack-title">Research stack</h2>
+  <ul class="stack-list">
+    {% for tool in site.data.research_stack %}
+    <li>
+      <a href="{{ tool.url }}" aria-label="{{ tool.name }}">
+        {% assign icon = '/assets/icons/' | append: tool.icon | append: '.svg' %}
+        <img class="stack-icon" src="{{ icon | relative_url }}" alt="" width="24" height="24">
+        <span class="stack-label" aria-hidden="true">{{ tool.name }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

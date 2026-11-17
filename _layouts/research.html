@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description | escape }}">
+  <meta name="theme-color" content="#fbfaf8">
+  {% include seo.html %}
+  <link rel="icon" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header" id="top">
+    <div class="shell header-inner">
+      <a class="wordmark" href="#top"><span aria-hidden="true">SL</span> Seanie Lee</a>
+      <nav aria-label="Main navigation">
+        <a href="#about-me">About</a>
+        <a href="#-work-experience">Experience</a>
+        <a href="#-publications">Publications</a>
+      </nav>
+    </div>
+  </header>
+  <main class="shell" id="main">
+    {{ content }}
+  </main>
+  <footer class="shell footer">
+    <span>{{ site.author.name }} · {{ site.author.location }}</span>
+    <a href="mailto:{{ site.author.email }}">Email</a>
+    <a href="#top">Back to top ↑</a>
+  </footer>
+  {% if site.google_analytics_id %}{% include analytics.html %}{% endif %}
+</body>
+</html>

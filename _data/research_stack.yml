@@ -1,0 +1,12 @@
+- name: Python
+  icon: python
+  url: https://www.python.org/
+- name: PyTorch
+  icon: pytorch
+  url: https://pytorch.org/
+- name: Hugging Face
+  icon: huggingface
+  url: https://huggingface.co/Seanie-lee/collections
+- name: GitHub
+  icon: github
+  url: https://github.com/seanie12

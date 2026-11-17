@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Seanie Lee"
-description              : "Interested in Deep Learning and Machine Learning. Hobby for mathematics."
+description              : "Seanie Lee researches AI safety, responsible AI, and evaluation."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Seanie Lee (이신의)"
   avatar           : "images/Seanie_Lee.jpg"
-  bio              : "PhD. Student at KAIST"
+  bio              : "PhD in Artificial Intelligence, KAIST"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
