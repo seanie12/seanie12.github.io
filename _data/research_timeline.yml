@@ -5,7 +5,7 @@
       logo: kaist.png
       dates: 2022–2026
       description: PhD in Artificial Intelligence
-      advisors:
+      advisors: &kaist_advisors
         - name: Sung Ju Hwang
           url: http://www.sungjuhwang.com/
         - name: Juho Lee
@@ -14,6 +14,7 @@
       logo: kaist.png
       dates: 2020–2022
       description: MS in Artificial Intelligence
+      advisors: *kaist_advisors
     - name: Yonsei University
       logo: yonsei.png
       dates: 2011–2018
